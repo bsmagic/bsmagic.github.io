@@ -7,5 +7,7 @@
   "foldHeading": true,
   "foldIndent": true,
   "showFrontmatter": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "legacyEditor": false,
+  "livePreview": true
 }

@@ -4,26 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1f9fdadebac12154",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "index.md",
-            "mode": "source"
+        "id": "228e861f362ee43f",
+        "type": "split",
+        "children": [
+          {
+            "id": "479c5f034ba30a33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2021-12-22-hard life.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57255fda591084a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2021-12-22-周三-14-19-52.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "6431ffe5884c30c7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_posts/2021-12-22-周三-14-19-52.md",
-            "mode": "preview"
-          }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -71,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 259
   },
   "right": {
     "id": "77c43589b8007f98",
@@ -87,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2021-12-22-hard life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,16 +114,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1f9fdadebac12154",
+  "active": "479c5f034ba30a33",
   "lastOpenFiles": [
-    "index.md",
-    "_posts/2020-01-14-welcome.md",
-    "about.md",
+    "_posts/2021-12-22-hard life.md",
     "_posts/2021-12-22-周三-14-19-52.md",
+    "_posts/2020-01-14-welcome.md",
+    "_posts/2021-12-03-无兑则无安.md",
+    "_posts/未命名.md",
+    "index.md",
+    "about.md",
     "images/logo.png",
     "images/200-2.jpg",
-    "images/$%)YA]MBTLN)G)}S5$P~AID.jpg",
-    "images/6OA`UU1WT6$UQ2Q55ZWBONV.jpg",
-    "_posts/2021-12-22-hard life.md"
+    "images/$%)YA]MBTLN)G)}S5$P~AID.jpg"
   ]
 }
