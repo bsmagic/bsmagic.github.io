@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "b4ad06109eb4b6bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f9fdadebac12154",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2021-12-22-周三-14-19-52.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6431ffe5884c30c7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2021-12-22-周三-14-19-52.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd47a7045cfece26",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7fb0d079b860273",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c72d9f9a330aa71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d854cc9a09b25fbf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "77c43589b8007f98",
+    "type": "split",
+    "children": [
+      {
+        "id": "7099475661880ecd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a79aa2b2b8e1702e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2021-12-22-周三-14-19-52.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1f9fdadebac12154",
+  "lastOpenFiles": [
+    "_posts/2021-12-22-周三-14-19-52.md",
+    "_posts/2021-12-22-hard life.md"
+  ]
+}
