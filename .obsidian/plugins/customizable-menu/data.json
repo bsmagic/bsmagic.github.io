@@ -1,0 +1,9 @@
+{
+  "menuCommands": [
+    {
+      "name": "Obsidian Git: Push",
+      "id": "obsidian-git:push2",
+      "icon": "cloud"
+    }
+  ]
+}

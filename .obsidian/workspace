@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-22-周三-14-19-52.md",
+            "file": "about.md",
             "mode": "source"
           }
         }
@@ -58,6 +58,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "1aba92ea8a40f061",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -79,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-12-22-周三-14-19-52.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +107,11 @@
   },
   "active": "1f9fdadebac12154",
   "lastOpenFiles": [
+    "about.md",
+    "images/logo.png",
+    "images/200-2.jpg",
+    "images/$%)YA]MBTLN)G)}S5$P~AID.jpg",
+    "images/6OA`UU1WT6$UQ2Q55ZWBONV.jpg",
     "_posts/2021-12-22-周三-14-19-52.md",
     "_posts/2021-12-22-hard life.md"
   ]
