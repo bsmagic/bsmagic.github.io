@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "about.md",
+            "file": "index.md",
             "mode": "source"
           }
         }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,12 +107,14 @@
   },
   "active": "1f9fdadebac12154",
   "lastOpenFiles": [
+    "index.md",
+    "_posts/2020-01-14-welcome.md",
     "about.md",
+    "_posts/2021-12-22-周三-14-19-52.md",
     "images/logo.png",
     "images/200-2.jpg",
     "images/$%)YA]MBTLN)G)}S5$P~AID.jpg",
     "images/6OA`UU1WT6$UQ2Q55ZWBONV.jpg",
-    "_posts/2021-12-22-周三-14-19-52.md",
     "_posts/2021-12-22-hard life.md"
   ]
 }

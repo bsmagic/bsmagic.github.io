@@ -1,8 +1,8 @@
 {
   "menuCommands": [
     {
-      "name": "Obsidian Git: Push",
-      "id": "obsidian-git:push2",
+      "name": "Obsidian Git: Create backup",
+      "id": "obsidian-git:push",
       "icon": "cloud"
     }
   ]

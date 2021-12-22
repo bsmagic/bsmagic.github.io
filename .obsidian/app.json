@@ -6,5 +6,6 @@
   "useMarkdownLinks": true,
   "foldHeading": true,
   "foldIndent": true,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "showUnsupportedFiles": true
 }
