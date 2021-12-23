@@ -4,35 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "228e861f362ee43f",
-        "type": "split",
-        "children": [
-          {
-            "id": "479c5f034ba30a33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2021-12-22-hard life.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57255fda591084a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2021-12-22-周三-14-19-52.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "33cbda6d19fa4a04",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2021-12-22-周三-14-19-52.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
+      },
+      {
+        "id": "31761f0623019d33",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2021-12-23-笔记软件的使用经验.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "410bc96936735770",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2021-12-22-hard life.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "79fafce117f78e74",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2021-12-22-测试在线编辑.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -96,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-12-22-hard life.md",
+                "file": "_posts/2021-12-23-笔记软件的使用经验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,20 +128,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "479c5f034ba30a33",
+  "active": "31761f0623019d33",
   "lastOpenFiles": [
+    "_posts/2021-12-23-笔记软件的使用经验.md",
     "_posts/2021-12-22-hard life.md",
-    "_posts/未命名.md",
-    "_posts/1ad1a47f07f5662582c397105f0f1395.jpg",
     "_posts/2021-12-22-周三-14-19-52.md",
-    "_posts/2020-01-14-welcome.md",
-    "_posts/2021-12-03-无兑则无安.md",
-    "index.md",
-    "about.md",
+    "_posts/2021-12-22-测试在线编辑.md",
+    "_posts/2021-12-22-用安卓浏览器编辑Github托管的Jekyll博客.md",
+    "images/mmexport1640008848813.jpg",
+    "images/mmexport1640057557456.jpg",
     "images/logo.png",
-    "images/200-2.jpg"
+    "images/200-2.jpg",
+    "images/6OA`UU1WT6$UQ2Q55ZWBONV.jpg"
   ]
 }
