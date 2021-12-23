@@ -2,7 +2,7 @@
   "attachmentFolderPath": "images",
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "foldHeading": true,
   "foldIndent": true,
@@ -11,5 +11,6 @@
   "legacyEditor": false,
   "livePreview": true,
   "trashOption": "local",
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileLocation": "current"
 }

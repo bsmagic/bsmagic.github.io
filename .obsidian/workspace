@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-22-hard life.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-12-22-hard life.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-12-22-hard life.md"
+                "file": "README.md"
               }
             }
           },
@@ -127,15 +127,15 @@
   },
   "active": "31761f0623019d33",
   "lastOpenFiles": [
-    "_posts/2021-12-22-hard life.md",
+    "README.md",
     "_posts/2021-12-22-周三-14-19-52.md",
+    "about.md",
+    "_posts/2020-01-14-welcome-to-Jekyll.md",
+    "index.md",
+    "360doc.com.md",
+    "_posts/2021-12-22-hard life.md",
     "_posts/2021-12-23-笔记软件的使用经验.md",
     "_posts/2021-12-22-用安卓浏览器编辑Github托管的Jekyll博客.md",
-    "_posts/2021-12-03-无兑则无安.md",
-    "_posts/2021-12-22-测试在线编辑.md",
-    "360doc.com.md",
-    "images/mmexport1640008848813.jpg",
-    "images/mmexport1640057557456.jpg",
-    "images/logo.png"
+    "_posts/2021-12-03-无兑则无安.md"
   ]
 }
