@@ -21,31 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-23-笔记软件的使用经验.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "410bc96936735770",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
             "file": "_posts/2021-12-22-hard life.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "79fafce117f78e74",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_posts/2021-12-22-测试在线编辑.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-12-23-笔记软件的使用经验.md",
+                "file": "_posts/2021-12-22-hard life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,8 +99,27 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "cbddd8ab468cb5e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2021-12-22-hard life.md"
+              }
+            }
+          },
+          {
+            "id": "8925f075b6b34dde",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -132,15 +127,15 @@
   },
   "active": "31761f0623019d33",
   "lastOpenFiles": [
-    "_posts/2021-12-23-笔记软件的使用经验.md",
     "_posts/2021-12-22-hard life.md",
     "_posts/2021-12-22-周三-14-19-52.md",
-    "_posts/2021-12-22-测试在线编辑.md",
+    "_posts/2021-12-23-笔记软件的使用经验.md",
     "_posts/2021-12-22-用安卓浏览器编辑Github托管的Jekyll博客.md",
+    "_posts/2021-12-03-无兑则无安.md",
+    "_posts/2021-12-22-测试在线编辑.md",
+    "360doc.com.md",
     "images/mmexport1640008848813.jpg",
     "images/mmexport1640057557456.jpg",
-    "images/logo.png",
-    "images/200-2.jpg",
-    "images/6OA`UU1WT6$UQ2Q55ZWBONV.jpg"
+    "images/logo.png"
   ]
 }
