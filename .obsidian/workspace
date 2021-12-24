@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-23-笔记软件的使用经验.md",
+            "file": "_posts/2021-12-24-氨糖和关节.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"![[/images/Pasted image 20211224091631.png]]\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,11 +69,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 259
+    "width": 393
   },
   "right": {
     "id": "77c43589b8007f98",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-12-23-笔记软件的使用经验.md",
+                "file": "_posts/2021-12-24-氨糖和关节.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-12-23-笔记软件的使用经验.md"
+                "file": "_posts/2021-12-24-氨糖和关节.md"
               }
             }
           },
@@ -118,7 +119,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -126,15 +128,15 @@
   },
   "active": "31761f0623019d33",
   "lastOpenFiles": [
-    "_posts/2021-12-23-笔记软件的使用经验.md",
-    "README.md",
-    "_posts/2021-12-22-周三-14-19-52.md",
-    "about.md",
-    "_posts/2020-01-14-welcome-to-Jekyll.md",
-    "index.md",
-    "360doc.com.md",
+    "_posts/2021-12-24-氨糖和关节.md",
+    "images/$%)YA]MBTLN)G)}S5$P~AID.jpg",
+    "images/Pasted image 20211224091631.png",
+    "images/Pasted%20image%2020211224091631.png.md",
+    "_posts/Pasted%20image%2020211224091631.png.md",
+    "_posts/2021-12-23-关于mitoq.md",
     "_posts/2021-12-22-hard life.md",
-    "_posts/2021-12-22-用安卓浏览器编辑Github托管的Jekyll博客.md",
-    "_posts/2021-12-03-无兑则无安.md"
+    "_posts/2021-12-22-周三-14-19-52.md",
+    "_posts/2021-12-23-笔记软件的使用经验.md",
+    "README.md"
   ]
 }
