@@ -4,38 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "33cbda6d19fa4a04",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_posts/2021-12-22-周三-14-19-52.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "31761f0623019d33",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-23-笔记软件的使用经验.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "29ea1d59242df58d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_posts/2021-12-23-笔记软件的使用经验.md",
-            "mode": "preview",
-            "source": false
+            "file": "_posts/2021-12-25-测试mgit.md",
+            "mode": "source"
           }
         }
       }
@@ -43,111 +18,95 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dd47a7045cfece26",
-    "type": "split",
+    "id": "d5711c3548d07163",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "c7fb0d079b860273",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3c72d9f9a330aa71",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "d854cc9a09b25fbf",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "\"![[/images/Pasted image 20211224091631.png]]\"",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "1aba92ea8a40f061",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "41c42db3f50862b7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "3a0972b88fdd96a5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "6211f2f82b0d12a8",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 393
+    "currentTab": 0
   },
   "right": {
-    "id": "77c43589b8007f98",
-    "type": "split",
+    "id": "31e294b1b52d3933",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "7099475661880ecd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a79aa2b2b8e1702e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "_posts/2021-12-23-笔记软件的使用经验.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "cbddd8ab468cb5e0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "_posts/2021-12-23-笔记软件的使用经验.md"
-              }
-            }
-          },
-          {
-            "id": "8925f075b6b34dde",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
+        "id": "3b084f190a9dd62d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "_posts/2021-12-25-测试mgit.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ],
-        "currentTab": 2
+        }
+      },
+      {
+        "id": "6d40cfe6104abbbd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "_posts/2021-12-25-测试mgit.md"
+          }
+        }
+      },
+      {
+        "id": "f92623e603d8525d",
+        "type": "leaf",
+        "state": {
+          "type": "side-panel-control-view",
+          "state": {}
+        }
       }
-    ],
-    "direction": "horizontal",
-    "width": 300
+    ]
   },
   "active": "31761f0623019d33",
   "lastOpenFiles": [
+    "_posts/2021-12-25-测试mgit.md",
     "_posts/2021-12-23-笔记软件的使用经验.md",
+    "_posts/2021-12-22-周三-14-19-52.md",
     "_posts/2021-12-24-氨糖和关节.md",
     "_posts/2021-12-24-浜田翔子『ひとりあ.そ.び』.md",
     "_posts/2021-12-24-Joplin添加行号.md",
     "_posts/2021-12-23-关于mitoq.md",
     "_posts/2021-12-22-hard life.md",
-    "_posts/2021-12-22-周三-14-19-52.md",
     "images/Pasted image 20211224091631.png",
-    "images/$%)YA]MBTLN)G)}S5$P~AID.jpg",
-    "images/Pasted%20image%2020211224091631.png.md"
+    "images/$%)YA]MBTLN)G)}S5$P~AID.jpg"
   ]
 }
