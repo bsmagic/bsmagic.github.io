@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2014-10-27-城管拖走早餐车.md",
+            "file": "_posts/2021-12-27-obsidian实现瀑布式浏览.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       },
@@ -52,11 +52,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:  \"_posts\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2014-10-27-城管拖走早餐车.md",
+                "file": "_posts/2021-12-27-obsidian实现瀑布式浏览.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2014-10-27-城管拖走早餐车.md"
+                "file": "_posts/2021-12-27-obsidian实现瀑布式浏览.md"
               }
             }
           },
@@ -127,15 +128,15 @@
   },
   "active": "33cbda6d19fa4a04",
   "lastOpenFiles": [
+    "_posts/2021-12-27-obsidian实现瀑布式浏览.md",
+    "_posts/2007-11-06-《色，戒》的启发.m!.md",
+    "_posts/2021-12-23-笔记软件的使用经验.md",
+    "_posts/2014-10-29-快乐.md",
     "_posts/2014-10-27-城管拖走早餐车.md",
     "_posts/2014-10-27-床上的中年男人.md",
     "_posts/2014-10-27-复杂系统和人工智能.md",
     "_posts/2014-10-27-学习美国之道.md",
     "_posts/2014-10-24-时间先于存在.md",
-    "_posts/2014-10-23-顺天命者悲.md",
-    "_posts/2014-10-24-机器人和人类的对比.md",
-    "_posts/2014-10-24-精子：团队合作的范例.md",
-    "_posts/2014-10-24-乱花渐欲迷人眼.md",
-    "_posts/2014-10-24-一点浩然气.md"
+    "_posts/2014-10-23-顺天命者悲.md"
   ]
 }
