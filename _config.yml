@@ -20,10 +20,16 @@ use_math: true
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
 
+# page
+paginate: 50
+
 # Everything below here can be ignored, unless you want to change the theme entirely
 
-theme: minima
+# theme
+# theme: minima
 #remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: SdtElectronics/jekyll-theme-antarctica
+
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-feed
