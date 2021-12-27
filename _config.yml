@@ -26,9 +26,9 @@ paginate: 50
 # Everything below here can be ignored, unless you want to change the theme entirely
 
 # theme
-# theme: minima
+theme: minima
 #remote_theme: pages-themes/time-machine@v0.2.0
-remote_theme: SdtElectronics/jekyll-theme-antarctica
+# remote_theme: SdtElectronics/jekyll-theme-antarctica
 
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
@@ -37,6 +37,10 @@ plugins:
   - jekyll-octicons
   - jekyll-github-metadata
 
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-mermaid
+  
 titles_from_headings:
   enabled:     true
   strip_title: true
