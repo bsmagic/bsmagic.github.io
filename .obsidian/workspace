@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-27-顺天命者悲.md",
+            "file": "_posts/2021-12-25-测试mGit.md",
             "mode": "source",
             "source": false
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-12-27-顺天命者悲.md",
+                "file": "_posts/2021-12-25-测试mGit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-12-27-顺天命者悲.md"
+                "file": "_posts/2021-12-25-测试mGit.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,6 +139,8 @@
   },
   "active": "31761f0623019d33",
   "lastOpenFiles": [
+    "_posts/2021-12-25-测试mGit.md",
+    "_posts/2021-12-23-关于MitoQ.md",
     "_posts/2021-12-27-顺天命者悲.md",
     "_posts/2014-10-15-社会生活和性交：你敢玩真的吗？.md",
     "_posts/2014-10-15-世界：涅槃前的燃烧.md",
@@ -146,8 +148,6 @@
     "_posts/2021-12-24-业力的流转.md",
     "_posts/2021-12-24-毛喉素.md",
     "_posts/2014-10-13-愧疚.md",
-    "_posts/2021-12-27-为什么圣人反对无耻？.md",
-    "_posts/2021-12-26-万人添画.md",
-    "_posts/2014-10-13-真理的妥协.md"
+    "_posts/2021-12-27-为什么圣人反对无耻？.md"
   ]
 }

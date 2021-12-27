@@ -35,5 +35,6 @@
     "editor:redo",
     "editor:toggle-keyboard",
     "editor:configure-toolbar"
-  ]
+  ],
+  "readableLineLength": true
 }
