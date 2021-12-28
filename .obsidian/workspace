@@ -11,7 +11,7 @@
           "state": {
             "file": "_posts/2021-12-27-obsidian实现瀑布式浏览.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       },
@@ -53,7 +53,7 @@
               "type": "search",
               "state": {
                 "query": "path:  \"_posts\"",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": true,
@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,8 +118,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,8 +127,8 @@
   "active": "33cbda6d19fa4a04",
   "lastOpenFiles": [
     "_posts/2021-12-27-obsidian实现瀑布式浏览.md",
-    "_posts/2007-11-06-《色，戒》的启发.m!.md",
     "_posts/2021-12-23-笔记软件的使用经验.md",
+    "_posts/2007-11-06-《色，戒》的启发.m!.md",
     "_posts/2014-10-29-快乐.md",
     "_posts/2014-10-27-城管拖走早餐车.md",
     "_posts/2014-10-27-床上的中年男人.md",
