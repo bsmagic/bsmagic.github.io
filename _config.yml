@@ -57,7 +57,7 @@ kramdown:
 # timezone: "Asia/China"
 # markdown: kramdown
 # highlighter: rouge
-permalink: /:year-:month-:day-:title.html
+permalink: /:year-:month-:day-:title.md
 # page
 paginate: 25
 
