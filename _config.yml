@@ -20,8 +20,6 @@ use_math: true
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
 
-# page
-paginate: 50
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 
@@ -40,7 +38,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-mermaid
-  
+
 titles_from_headings:
   enabled:     true
   strip_title: true
@@ -55,4 +53,11 @@ kramdown:
   hard_wrap: false
   syntax_highlighter: rouge
 
+# Output options (more information on Jekyll's site)
+# timezone: "Asia/China"
+# markdown: kramdown
+# highlighter: rouge
+permalink: /:year-:month-:day-:title.html
+# page
+paginate: 25
 

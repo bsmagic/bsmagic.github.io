@@ -4,33 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "33cbda6d19fa4a04",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
         "id": "be096c479a6194c4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-27-obsidian如何实现瀑布式浏览.md",
+            "file": "_posts/2021-12-28-jekyll个人博客配置记录.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "29ea1d59242df58d",
+        "id": "00106dc29ed4f87d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-23-笔记软件的使用经验.md",
-            "mode": "preview",
+            "file": "_posts/2021-12-22-hard life.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -97,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-12-27-obsidian如何实现瀑布式浏览.md",
+                "file": "_posts/2021-12-22-hard life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-12-27-obsidian如何实现瀑布式浏览.md"
+                "file": "_posts/2021-12-22-hard life.md"
               }
             }
           },
@@ -132,17 +124,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "be096c479a6194c4",
+  "active": "00106dc29ed4f87d",
   "lastOpenFiles": [
+    "_posts/2021-12-22-hard life.md",
+    "_posts/2021-12-28-jekyll个人博客配置记录.md",
+    "_posts/2021-12-23-笔记软件的使用经验.md",
     "_posts/2021-12-27-obsidian如何实现瀑布式浏览.md",
     "_posts/2021-12-27-obsidian如何实现瀑布式浏览？.md",
     "conflict-files-obsidian-git.md",
     "_posts/2021-12-25-测试mGit.md",
     "_posts/2021-12-26-万人添画.md",
-    "_posts/2021-12-28-.md",
-    "_posts/2021-12-23-笔记软件的使用经验.md",
     "_posts/2007-11-06-《色，戒》的启发.m!.md",
-    "_posts/2014-10-29-快乐.md",
-    "_posts/2014-10-27-城管拖走早餐车.md"
+    "_posts/2014-10-29-快乐.md"
   ]
 }
