@@ -2,7 +2,7 @@
 layout: tags
 title: Tags
 description: 标签页面的实例
-tags: tags, page
+tags: tags page
 ---
 
 
@@ -32,13 +32,14 @@ tags: tags, page
   </div>
 </div>
 
-<!-- 為 GitHub 上的 Jekyll 添加 Tags · Rory
-https://nk910216.github.io/2017/08/11/UsingTagsForJekyll/ -->
+参考：為 GitHub 上的 Jekyll 添加 Tags · Rory
+https://nk910216.github.io/2017/08/11/UsingTagsForJekyll/
+
 
 
 ## 实现方法2
 
-
+<div id="full-tags-list">
 {%- capture site_tags -%}
     {%- for tag in site.tags -%}
         {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
@@ -50,7 +51,6 @@ https://nk910216.github.io/2017/08/11/UsingTagsForJekyll/ -->
     <a href="#{{- tag -}}" class="btn btn-primary tag-btn"><i class="fa fa-tag" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>
 {%- endfor -%}
 
-<div id="full-tags-list">
 {%- for tag in tags_list -%}
     <h2 id="{{- tag -}}" class="linked-section">
         <i class="fa fa-tag" aria-hidden="true"></i>
