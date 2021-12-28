@@ -65,7 +65,7 @@ https://nk910216.github.io/2017/08/11/UsingTagsForJekyll/ -->
 https://github.com/ZoharAndroid/zoharandroid.github.io/blob/master/tags.html
 
 <!--添加搜索框-->
-<br/>
+<br>
 <!-- HTML elements for search -->
 <input type="text" id="search-input" placeholder="搜索博客 - 输入标题/相关内容/日期/Tags.." style="width:380px;"/>
 <ul id="results-container"></ul>
@@ -84,7 +84,7 @@ SimpleJekyllSearch({
     fuzzy: false
   })
 </script>
-<br/>
+<br>
 
 
 {%- capture site_tags -%}
@@ -98,7 +98,7 @@ SimpleJekyllSearch({
     <a href="#{{- tag -}}" class="btn btn-primary tag-btn"><i class="fa fa-tag" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>
 {%- endfor -%}
 
-
+### Full tags
 <div id="full-tags-list">
 {%- for tag in tags_list -%}
     <h2 id="{{- tag -}}" class="linked-section">
