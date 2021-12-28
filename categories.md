@@ -1,6 +1,6 @@
 ---
 layout: categories
-title: Categories page
+title: Categories
 description: 分类页面
 keywords: 分类key
 comments: false
