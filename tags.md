@@ -61,8 +61,6 @@ https://nk910216.github.io/2017/08/11/UsingTagsForJekyll/ -->
 </div>
 
 ## 实现方法3
-参考：zoharandroid.github.io/tags.html at master · ZoharAndroid/zoharandroid.github.io
-https://github.com/ZoharAndroid/zoharandroid.github.io/blob/master/tags.html
 
 <!--添加搜索框-->
 <br>
@@ -98,7 +96,6 @@ SimpleJekyllSearch({
     <a href="#{{- tag -}}" class="btn btn-primary tag-btn"><i class="fa fa-tag" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>
 {%- endfor -%}
 
-### Full tags
 <div id="full-tags-list">
 {%- for tag in tags_list -%}
     <h2 id="{{- tag -}}" class="linked-section">
@@ -117,3 +114,8 @@ SimpleJekyllSearch({
     </div>
 {%- endfor -%}
 </div>
+
+<br>
+
+参考：zoharandroid.github.io/tags.html at master · ZoharAndroid/zoharandroid.github.io
+https://github.com/ZoharAndroid/zoharandroid.github.io/blob/master/tags.html
