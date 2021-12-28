@@ -1,15 +1,12 @@
 ---
-layout: tags
+layout: page
 title: Tags
 description: 标签页面
 tags: tags, page
-permalink: ../tags.md
+permalink: tags.md
 
 ---
 
-%%
-permalink: /tags.md
-%%
 
 ## 实现方法1
 
