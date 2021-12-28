@@ -26,11 +26,6 @@ tags: categories, page
 <!-- /section.content -->
 
 ## 实现方法2
----
-layout: page
-permalink: /categories/
-title: 博客分类
----
 
 <!--添加搜索框-->
 <br/>

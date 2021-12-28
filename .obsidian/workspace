@@ -33,7 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tags.md",
+            "file": "categories.md",
             "mode": "source",
             "source": true
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tags.md",
+                "file": "categories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tags.md"
+                "file": "categories.md"
               }
             }
           },
@@ -138,10 +138,10 @@
   },
   "active": "17b57ec5d6229a9c",
   "lastOpenFiles": [
-    "tags.md",
     "categories.md",
-    "search.md",
     "_posts/2021-12-28-jekyll个人博客配置记录.md",
+    "tags.md",
+    "search.md",
     "index.md",
     "about.md",
     "_posts/2020-01-14-welcome-to-Jekyll.md",
