@@ -6,7 +6,7 @@ keywords: 分类key
 comments: false
 menu: 分类menu
 tags: categories, page
-permalink: /categories.html
+permalink: /categories.md
 ---
 
 <section class="container posts-content">
