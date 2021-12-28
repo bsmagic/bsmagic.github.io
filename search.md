@@ -8,7 +8,7 @@ title: Search
 <ul id="results-container"></ul>
 
 <!-- script pointing to jekyll-search.js -->
-<script src="{{ site.baseurl }}/assets/simple-jekyll-search.min.js"></script>
+<script src="/assets/simple-jekyll-search.min.js"></script>
 
 <script>
 SimpleJekyllSearch({
