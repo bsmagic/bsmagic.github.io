@@ -1,7 +1,7 @@
 ---
 layout: tags
 title: Tags
-description: 标签页面
+description: 标签页面的实例
 tags: tags, page
 ---
 
