@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-28-jekyll个人博客配置记录.md",
+            "file": "search.md",
             "mode": "source",
             "source": true
           }
@@ -33,9 +33,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tags.md",
+            "file": "categories.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-12-28-jekyll个人博客配置记录.md",
+                "file": "categories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-12-28-jekyll个人博客配置记录.md"
+                "file": "categories.md"
               }
             }
           },
@@ -136,17 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "00106dc29ed4f87d",
+  "active": "17b57ec5d6229a9c",
   "lastOpenFiles": [
-    "_posts/2021-12-28-jekyll个人博客配置记录.md",
-    "index.md",
-    "tags.md",
     "categories.md",
+    "search.md",
+    "_posts/2021-12-28-jekyll个人博客配置记录.md",
+    "tags.md",
+    "index.md",
     "about.md",
     "_posts/2020-01-14-welcome-to-Jekyll.md",
     "_posts/2021-12-22-hard life.md",
     "_posts/2021-12-23-笔记软件的使用经验.md",
-    "_posts/2021-12-27-obsidian如何实现瀑布式浏览.md",
-    "_posts/2021-12-27-obsidian如何实现瀑布式浏览？.md"
+    "_posts/2021-12-27-obsidian如何实现瀑布式浏览.md"
   ]
 }
