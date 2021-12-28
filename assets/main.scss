@@ -60,3 +60,24 @@
 
 .codecell table { width: auto; }
 
+.post-tag {
+        display: inline-block;
+        background: #268bd2;
+        padding: 0 .5rem;
+        margin-right: .5rem;
+        border-radius: 4px;
+        color: #ffffff;
+        font-family: $font-sans;
+        font-size: 90%;
+        &:before {
+          content: "\f02b";
+          font-family: "PT Sans", Helvetica, Arial, sans-serif;
+          padding-right: .5em;
+        }
+        &:hover {
+          text-decoration: none;
+          background: #268bd2;
+          color: $white;
+        }
+        @include transition(all .1s ease-in-out);
+      }

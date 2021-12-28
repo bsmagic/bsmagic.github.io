@@ -71,7 +71,7 @@ https://github.com/ZoharAndroid/zoharandroid.github.io/blob/master/tags.html
 <ul id="results-container"></ul>
 
 <!-- script pointing to jekyll-search.js -->
-<script src="{{ site.baseurl }}/assets/simple-jekyll-search.min.js"></script>
+<script src="/assets/simple-jekyll-search.min.js"></script>
 
 <script>
 SimpleJekyllSearch({
@@ -97,7 +97,6 @@ SimpleJekyllSearch({
 {%- for tag in tags_list -%}
     <a href="#{{- tag -}}" class="btn btn-primary tag-btn"><i class="fa fa-tag" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>
 {%- endfor -%}
-
 
 
 <div id="full-tags-list">
