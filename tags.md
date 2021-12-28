@@ -1,8 +1,10 @@
 ---
 layout: tags
-title: tags
+title: Tags
 description: 标签页面
 tags: tags, page
+permalink: ../tags.md
+
 ---
 
 %%
