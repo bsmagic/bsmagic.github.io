@@ -1,5 +1,5 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+# Only the main scss file needs front matter (the dashes are enough)
 ---
 
 @import "{{ site.theme }}";
@@ -67,7 +67,7 @@
         margin-right: .5rem;
         border-radius: 4px;
         color: #ffffff;
-        font-family: $font-sans;
+        font-family: Helvetica, Arial, Sans-Serif;
         font-size: 90%;
         &:before {
           content: "\f02b";
@@ -77,7 +77,7 @@
         &:hover {
           text-decoration: none;
           background: #268bd2;
-          color: $white;
+          color: white;
         }
         @include transition(all .1s ease-in-out);
       }
