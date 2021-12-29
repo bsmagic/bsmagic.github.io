@@ -1,5 +1,5 @@
 ---
-layout: tags
+layout: page
 title: Tags
 permanent: tags
 description: 标签页面的实例

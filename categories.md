@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: page
 title: Categories
 description: 分类页面例子
 keywords: 分类key
