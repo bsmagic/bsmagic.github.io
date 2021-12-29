@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-29-人生意义所系.md",
+            "file": "_posts/2021-12-29-测试TOC.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       },
@@ -23,7 +23,7 @@
           "state": {
             "file": "_posts/2021-12-25-测试mGit.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-12-29-人生意义所系.md",
+                "file": "_posts/2021-12-29-测试TOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-12-29-人生意义所系.md"
+                "file": "_posts/2021-12-29-测试TOC.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -127,10 +127,10 @@
   },
   "active": "be096c479a6194c4",
   "lastOpenFiles": [
+    "_posts/2021-12-29-测试TOC.md",
+    "_posts/2021-12-25-测试mGit.md",
     "_posts/2021-12-29-人生意义所系.md",
     "_posts/2021-12-29-sky壳的少女.md",
-    "_posts/2021-12-25-测试mGit.md",
-    "_posts/2021-12-29-测试TOC.md",
     "_posts/2021-12-28-jekyll个人博客配置记录.md",
     "_posts/2020-01-14-welcome-to-Jekyll.md",
     "assets/template.md",
