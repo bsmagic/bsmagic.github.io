@@ -9,42 +9,6 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "assets/template.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "00106dc29ed4f87d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "search.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "17b57ec5d6229a9c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "tags.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "60fc233d2db7422f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
             "file": "_posts/2021-12-25-测试mGit.md",
             "mode": "source",
             "source": true
@@ -57,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-29-测试TOC.md",
+            "file": "_posts/2021-12-25-测试mGit.md",
             "mode": "source",
             "source": true
           }
@@ -88,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#todos",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -125,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-12-29-测试TOC.md",
+                "file": "_posts/2021-12-25-测试mGit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-12-29-测试TOC.md"
+                "file": "_posts/2021-12-25-测试mGit.md"
               }
             }
           },
@@ -154,24 +118,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "848a999ba5416afc",
+  "active": "be096c479a6194c4",
   "lastOpenFiles": [
-    "_posts/2021-12-29-测试TOC.md",
     "_posts/2021-12-25-测试mGit.md",
-    "_posts/2021-12-29-.md",
-    "assets/template.md",
-    "tags.md",
-    "search.md",
-    "_posts/2021-12-27-obsidian如何实现瀑布式浏览.md",
+    "_posts/2021-12-29-测试TOC.md",
     "_posts/2021-12-28-jekyll个人博客配置记录.md",
+    "_posts/2021-12-29-.md",
     "_posts/2020-01-14-welcome-to-Jekyll.md",
-    "categories.md"
+    "assets/template.md",
+    "search.md",
+    "_posts/2021-12-22-hard life.md",
+    "_posts/2021-12-23-笔记软件的使用经验.md",
+    "_posts/2021-12-27-obsidian如何实现瀑布式浏览.md"
   ]
 }
