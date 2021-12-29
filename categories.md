@@ -1,11 +1,12 @@
 ---
 layout: categories
 title: Categories
-description: 分类页面
+description: 分类页面例子
 keywords: 分类key
 comments: false
 menu: 分类menu
-tags: categories, page
+tags: categories page
+permanent: /categories
 ---
 
 ## 实现方法1
@@ -45,5 +46,6 @@ tags: categories, page
 {% endfor %}
 </div>
 
-<!-- zoharandroid.github.io/categories.html at master · ZoharAndroid/zoharandroid.github.io
-https://github.com/ZoharAndroid/zoharandroid.github.io/blob/master/categories.html-->
+## 参考
+zoharandroid.github.io/categories.html at master · ZoharAndroid/zoharandroid.github.io
+https://github.com/ZoharAndroid/zoharandroid.github.io/blob/master/categories.html

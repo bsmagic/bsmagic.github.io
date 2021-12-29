@@ -38,6 +38,18 @@
             "source": true
           }
         }
+      },
+      {
+        "id": "60fc233d2db7422f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2021-12-28-jekyll个人博客配置记录.md",
+            "mode": "source",
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tags.md",
+                "file": "_posts/2021-12-28-jekyll个人博客配置记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tags.md"
+                "file": "_posts/2021-12-28-jekyll个人博客配置记录.md"
               }
             }
           },
@@ -136,17 +148,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "17b57ec5d6229a9c",
+  "active": "60fc233d2db7422f",
   "lastOpenFiles": [
+    "_posts/2021-12-28-jekyll个人博客配置记录.md",
+    "_posts/2021-12-27-obsidian如何实现瀑布式浏览.md",
+    "search.md",
     "tags.md",
+    "conflict-files-obsidian-git.md",
     "_posts/2021-12-24-业力的流转.md",
     "_posts/2021-12-24-Joplin添加行号.md",
     "_posts/2021-12-25-测试mGit.md",
     "_posts/2021-12-26-万人添画.md",
-    "_posts/2021-12-28-jekyll个人博客配置记录.md",
-    "_posts/2021-12-27-obsidian如何实现瀑布式浏览.md",
-    "index.md",
-    "search.md",
-    "about.md"
+    "index.md"
   ]
 }
