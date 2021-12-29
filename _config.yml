@@ -78,4 +78,3 @@ sidebar: true
 featured-tags: true
 # 相同标签数量大于这个数，才会出现在首页
 featured-condition-size: 0
-theme: jekyll-theme-minimal
