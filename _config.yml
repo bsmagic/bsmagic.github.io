@@ -24,11 +24,12 @@ google_analytics:
 # Everything below here can be ignored, unless you want to change the theme entirely
 
 # theme
-# theme: minima
+theme: minima
+#theme: leap-day
 #remote_theme: pages-themes/time-machine@v0.2.0
 # remote_theme: SdtElectronics/jekyll-theme-antarctica
 #remote_theme: pages-themes/leap-day@v0.2.0
-remote_theme: Simpleyyt/jekyll-theme-next
+#remote_theme: Simpleyyt/jekyll-theme-next
 
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
