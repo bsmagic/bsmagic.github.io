@@ -33,7 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-28-jekyll个人博客配置记录.md",
+            "file": "tags.md",
             "mode": "source",
             "source": true
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-12-28-jekyll个人博客配置记录.md",
+                "file": "tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-12-28-jekyll个人博客配置记录.md"
+                "file": "tags.md"
               }
             }
           },
@@ -138,15 +138,15 @@
   },
   "active": "17b57ec5d6229a9c",
   "lastOpenFiles": [
+    "tags.md",
+    "_posts/2021-12-24-业力的流转.md",
+    "_posts/2021-12-24-Joplin添加行号.md",
+    "_posts/2021-12-25-测试mGit.md",
+    "_posts/2021-12-26-万人添画.md",
     "_posts/2021-12-28-jekyll个人博客配置记录.md",
     "_posts/2021-12-27-obsidian如何实现瀑布式浏览.md",
-    "search.md",
-    "categories.md",
-    "tags.md",
     "index.md",
-    "about.md",
-    "_posts/2020-01-14-welcome-to-Jekyll.md",
-    "_posts/2021-12-22-hard life.md",
-    "_posts/2021-12-23-笔记软件的使用经验.md"
+    "search.md",
+    "about.md"
   ]
 }
