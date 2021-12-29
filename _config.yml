@@ -25,10 +25,10 @@ google_analytics:
 
 # theme
 # theme: minima
-theme: leap_day
 #remote_theme: pages-themes/time-machine@v0.2.0
 # remote_theme: SdtElectronics/jekyll-theme-antarctica
-remote_theme: pages-themes/leap-day@v0.2.0
+#remote_theme: pages-themes/leap-day@v0.2.0
+remote_theme: Simpleyyt/jekyll-theme-next
 
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
