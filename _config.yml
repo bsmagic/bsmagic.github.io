@@ -24,7 +24,7 @@ google_analytics:
 # Everything below here can be ignored, unless you want to change the theme entirely
 
 # theme
-theme: minimal
+theme: minima
 #theme: leap-day
 #remote_theme: pages-themes/time-machine@v0.2.0
 # remote_theme: SdtElectronics/jekyll-theme-antarctica
