@@ -7,6 +7,7 @@ keywords:
 comments:
 menu:
 tags: 
+categories:
 permanent: 
 timestamp: {{date:YYYYMMDD}}{{time:HHmm}}
 createdate: {{date:YYYY-MM-DD}}
