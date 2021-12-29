@@ -6,7 +6,7 @@ keywords: 分类key
 comments: false
 menu: 分类menu
 tags: categories page
-permanent: /categories
+permanent.bak: /categories
 ---
 
 ## 实现方法1

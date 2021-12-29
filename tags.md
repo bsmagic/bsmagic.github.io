@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tags
-permanent: tags
+permanent: 
 description: 标签页面的实例
 tags: tags page
 ---
