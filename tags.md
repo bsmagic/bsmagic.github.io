@@ -18,7 +18,7 @@ tags: tags page
   <hr/>
   <div class="tags-expo-section">
     {% for tag in site.tags %}
-    <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
+    <h3 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h3>
     <ul class="tags-expo-posts">
       {% for post in tag[1] %}
         <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
@@ -53,10 +53,10 @@ https://nk910216.github.io/2017/08/11/UsingTagsForJekyll/
 {%- endfor -%}
 
 {%- for tag in tags_list -%}
-    <h2 id="{{- tag -}}" class="linked-section">
+    <h3 id="{{- tag -}}" class="linked-section">
         <i class="fa fa-tag" aria-hidden="true"></i>
         &nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})
-    </h2>
+    </h3>
     <div class="post-list">
         {%- for post in site.tags[tag] -%}
             <div class="tag-entry">
