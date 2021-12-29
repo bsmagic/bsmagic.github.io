@@ -26,7 +26,7 @@
     {
       "name": "html",
       "active": true,
-      "visible": false
+      "visible": true
     },
     {
       "name": "latex",
