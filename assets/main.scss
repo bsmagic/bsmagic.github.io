@@ -81,3 +81,10 @@
         }
         
       }
+
+.post-container img[alt~="@2x"] {
+        zoom: 50%;
+    }
+.post-container img[alt~="@3x"] {
+        zoom: 33%;
+    }

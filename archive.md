@@ -1,7 +1,7 @@
 ---
 aliases:
 layout: page
-title:
+title: Archive
 description:
 keywords:
 comments:
