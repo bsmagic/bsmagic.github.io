@@ -57,7 +57,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-25-测试mGit.md",
+            "file": "_posts/2021-12-29-测试TOC.md",
             "mode": "source",
             "source": true
           }
@@ -88,9 +88,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#todos",
                 "matchingCase": true,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
@@ -105,7 +105,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-12-25-测试mGit.md",
+                "file": "_posts/2021-12-29-测试TOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-12-25-测试mGit.md"
+                "file": "_posts/2021-12-29-测试TOC.md"
               }
             }
           },
@@ -163,13 +164,13 @@
   },
   "active": "848a999ba5416afc",
   "lastOpenFiles": [
+    "_posts/2021-12-29-测试TOC.md",
+    "_posts/2021-12-29-.md",
     "_posts/2021-12-25-测试mGit.md",
     "assets/template.md",
     "tags.md",
     "search.md",
     "_posts/2021-12-27-obsidian如何实现瀑布式浏览.md",
-    "_posts/2021-12-29-测试TOC.md",
-    "_posts/2021-12-29-.md",
     "_posts/2021-12-28-jekyll个人博客配置记录.md",
     "_posts/2020-01-14-welcome-to-Jekyll.md",
     "categories.md"
