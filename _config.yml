@@ -61,3 +61,17 @@ permalink: /:year-:month-:day-:title.md
 # page
 paginate: 25
 
+
+## 侧边栏设置
+# 是否开启侧边栏 true 开始 false 关闭
+sidebar: true
+# 侧边栏描述语句
+# sidebar-about-description: "知识就是力量。"
+# 侧边栏头像
+# sidebar-avatar: /img/sidebar-avatar.jpg
+
+## 标签设置
+# 是否使用首页标签
+featured-tags: true
+# 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0
