@@ -36,5 +36,6 @@
     "editor:toggle-keyboard",
     "editor:configure-toolbar"
   ],
-  "readableLineLength": true
+  "readableLineLength": true,
+  "fileSortOrder": "byModifiedTime"
 }

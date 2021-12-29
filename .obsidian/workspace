@@ -105,8 +105,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,8 +164,8 @@
   "active": "848a999ba5416afc",
   "lastOpenFiles": [
     "_posts/2021-12-29-测试TOC.md",
-    "_posts/2021-12-29-.md",
     "_posts/2021-12-25-测试mGit.md",
+    "_posts/2021-12-29-.md",
     "assets/template.md",
     "tags.md",
     "search.md",
