@@ -52,11 +52,16 @@
 
 <!-- sidebar -->
  <nav class="toc-fixed" markdown="1">
- {%  
-* content
-{:toc}
-%}
+
+{{ * content
+  {:toc} | markdownify }}
 
 </nav>
+
+<div markdown="1">
+  ## TOC 2
+  * content
+  {:toc}
+  </div>
 
 </head>
