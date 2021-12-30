@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2014-11-17-成功和失败.md",
+            "file": "_posts/2021-12-30-Windows 语言代码标识符(LCID).md",
             "mode": "source",
             "source": true
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2014-11-17-成功和失败.md",
+                "file": "_posts/2021-12-30-Windows 语言代码标识符(LCID).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2014-11-17-成功和失败.md"
+                "file": "_posts/2021-12-30-Windows 语言代码标识符(LCID).md"
               }
             }
           },
@@ -126,9 +126,9 @@
   },
   "active": "848a999ba5416afc",
   "lastOpenFiles": [
+    "_posts/2021-12-30-Windows 语言代码标识符(LCID).md",
     "_posts/2014-11-17-成功和失败.md",
     "assets/template.md",
-    "_posts/2021-12-30-Windows 语言代码标识符(LCID).md",
     "_posts/2014-11-17-成功的道路.md",
     "_posts/2014-11-17-操心和冒险.md",
     "_posts/2014-11-17-悲剧的诞生.md",
