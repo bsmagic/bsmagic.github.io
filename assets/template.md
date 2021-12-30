@@ -9,13 +9,10 @@ menu:
 tags: 
 categories:
 permanent: 
-excerpt:
-# 摘要？
+excerpt: # 摘要？
 timestamp: {{date:YYYYMMDD}}{{time:HHmm}}
 createdate: {{date:YYYY-MM-DD}}
+origindate: <2007?
 ---
 
-[/toc/] 
-{{toc}} 
-[[__TOC__]]
-[toc]
+

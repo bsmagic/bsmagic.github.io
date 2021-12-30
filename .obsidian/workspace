@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-29-贵虚己.md",
+            "file": "assets/template.md",
             "mode": "source",
             "source": true
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-25-测试mGit.md",
+            "file": "_posts/2014-11-17-成功和失败.md",
             "mode": "source",
             "source": true
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-12-29-贵虚己.md",
+                "file": "_posts/2014-11-17-成功和失败.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-12-29-贵虚己.md"
+                "file": "_posts/2014-11-17-成功和失败.md"
               }
             }
           },
@@ -124,17 +124,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "be096c479a6194c4",
+  "active": "848a999ba5416afc",
   "lastOpenFiles": [
-    "_posts/2021-12-29-贵虚己.md",
-    "_posts/2021-12-29-人生意义所系.md",
+    "_posts/2014-11-17-成功和失败.md",
+    "assets/template.md",
+    "_posts/2021-12-30-Windows 语言代码标识符(LCID).md",
+    "_posts/2014-11-17-成功的道路.md",
+    "_posts/2014-11-17-操心和冒险.md",
+    "_posts/2014-11-17-悲剧的诞生.md",
+    "_posts/2014-11-14 -惊喜的人生.md",
+    "_posts/2014-10-29-偶像的现实和想象.md",
     "_posts/未命名.md",
-    "search.md",
-    "index.md",
-    "_posts/2021-12-29-测试TOC.md",
-    "_posts/2021-12-28-jekyll个人博客配置记录.md",
-    "_posts/2021-12-29-Jekyll修改图片大小.md",
-    "_posts/2021-12-27-obsidian如何实现瀑布式浏览.md",
-    "_posts/2021-12-25-测试mGit.md"
+    "_posts/2021-12-29-贵虚己.md"
   ]
 }
