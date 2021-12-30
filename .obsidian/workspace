@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_includes/head.md.md",
+            "file": "_posts/2021-12-29-测试TOC.md",
             "mode": "source",
             "source": true
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_includes/head.md.md",
+                "file": "_posts/2021-12-29-测试TOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_includes/head.md.md"
+                "file": "_posts/2021-12-29-测试TOC.md"
               }
             }
           },
@@ -126,6 +126,7 @@
   },
   "active": "848a999ba5416afc",
   "lastOpenFiles": [
+    "_posts/2021-12-29-测试TOC.md",
     "_includes/head.md.md",
     "_posts/2014-11-17-活力的来源.md",
     "_posts/2021-12-30-Windows 语言代码标识符(LCID).md",
@@ -134,7 +135,6 @@
     "_posts/2014-11-17-成功的道路.md",
     "_posts/2014-11-17-操心和冒险.md",
     "_posts/2014-11-17-悲剧的诞生.md",
-    "_posts/2014-11-14 -惊喜的人生.md",
-    "_posts/2014-10-29-偶像的现实和想象.md"
+    "_posts/2014-11-14 -惊喜的人生.md"
   ]
 }
