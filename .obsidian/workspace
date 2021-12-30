@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-30-Windows 语言代码标识符(LCID).md",
+            "file": "_posts/2014-11-17-活力的来源.md",
             "mode": "source",
             "source": true
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-12-30-Windows 语言代码标识符(LCID).md",
+                "file": "_posts/2014-11-17-活力的来源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-12-30-Windows 语言代码标识符(LCID).md"
+                "file": "_posts/2014-11-17-活力的来源.md"
               }
             }
           },
@@ -126,6 +126,7 @@
   },
   "active": "848a999ba5416afc",
   "lastOpenFiles": [
+    "_posts/2014-11-17-活力的来源.md",
     "_posts/2021-12-30-Windows 语言代码标识符(LCID).md",
     "_posts/2014-11-17-成功和失败.md",
     "assets/template.md",
@@ -134,7 +135,6 @@
     "_posts/2014-11-17-悲剧的诞生.md",
     "_posts/2014-11-14 -惊喜的人生.md",
     "_posts/2014-10-29-偶像的现实和想象.md",
-    "_posts/未命名.md",
-    "_posts/2021-12-29-贵虚己.md"
+    "_posts/未命名.md"
   ]
 }
