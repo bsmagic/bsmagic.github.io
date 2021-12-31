@@ -3,7 +3,6 @@ aliases:
 layout: page
 title:
 description:
-keywords:
 comments:
 menu:
 tags: 

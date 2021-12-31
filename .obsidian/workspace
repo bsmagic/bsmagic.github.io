@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-29-测试TOC.md",
+            "file": "_posts/2021-12-31-笔记整理记录.md",
             "mode": "source",
             "source": true
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sidebar",
+                "query": "jeklly",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-12-29-测试TOC.md",
+                "file": "_posts/2021-12-31-笔记整理记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-12-29-测试TOC.md"
+                "file": "_posts/2021-12-31-笔记整理记录.md"
               }
             }
           },
@@ -118,7 +119,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -126,15 +128,15 @@
   },
   "active": "848a999ba5416afc",
   "lastOpenFiles": [
-    "_posts/2021-12-29-测试TOC.md",
-    "_includes/head.md.md",
-    "_posts/2014-11-17-活力的来源.md",
-    "_posts/2021-12-30-Windows 语言代码标识符(LCID).md",
-    "_posts/2014-11-17-成功和失败.md",
-    "assets/template.md",
-    "_posts/2014-11-17-成功的道路.md",
-    "_posts/2014-11-17-操心和冒险.md",
-    "_posts/2014-11-17-悲剧的诞生.md",
-    "_posts/2014-11-14 -惊喜的人生.md"
+    "_posts/2021-12-31-笔记整理记录.md",
+    "_posts/2021-12-23-笔记软件的使用经验.md",
+    "_posts/2014-12-17-个人与享乐主义者的信条.md",
+    "_posts/2014-12-17-广义的作品.md",
+    "_posts/2014-12-17-交互是不可避免的.md",
+    "_posts/2021-12-28-jekyll个人博客配置记录.md",
+    "_posts/2014-12-17-流量和结点.md",
+    "_posts/2014-12-17-解脱：把命运女神当婊子.md",
+    "_posts/2014-12-15-生存必备：诡辩和博弈.md",
+    "_posts/2014-12-08-队伍不好带了.md"
   ]
 }
