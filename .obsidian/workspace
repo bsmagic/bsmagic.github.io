@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-31-笔记整理记录.md",
+            "file": "assets/template.md",
             "mode": "source",
             "source": true
           }
@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-12-31-笔记整理记录.md",
+                "file": "assets/template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-12-31-笔记整理记录.md"
+                "file": "assets/template.md"
               }
             }
           },
@@ -128,6 +127,8 @@
   },
   "active": "848a999ba5416afc",
   "lastOpenFiles": [
+    "assets/template.md",
+    "_includes/head.md.md",
     "_posts/2021-12-31-笔记整理记录.md",
     "_posts/2021-12-23-笔记软件的使用经验.md",
     "_posts/2014-12-17-个人与享乐主义者的信条.md",
@@ -135,8 +136,6 @@
     "_posts/2014-12-17-交互是不可避免的.md",
     "_posts/2021-12-28-jekyll个人博客配置记录.md",
     "_posts/2014-12-17-流量和结点.md",
-    "_posts/2014-12-17-解脱：把命运女神当婊子.md",
-    "_posts/2014-12-15-生存必备：诡辩和博弈.md",
-    "_posts/2014-12-08-队伍不好带了.md"
+    "_posts/2014-12-17-解脱：把命运女神当婊子.md"
   ]
 }
