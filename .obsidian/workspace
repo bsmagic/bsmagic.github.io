@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "assets/template.md",
+            "file": "_posts/2022-01-04-js自动批量选择网页商特定的radio按钮.md",
             "mode": "source",
             "source": true
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/template.md",
+                "file": "_posts/2022-01-04-js自动批量选择网页商特定的radio按钮.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/template.md"
+                "file": "_posts/2022-01-04-js自动批量选择网页商特定的radio按钮.md"
               }
             }
           },
@@ -127,6 +127,7 @@
   },
   "active": "848a999ba5416afc",
   "lastOpenFiles": [
+    "_posts/2022-01-04-js自动批量选择网页商特定的radio按钮.md",
     "assets/template.md",
     "_includes/head.md.md",
     "_posts/2021-12-31-笔记整理记录.md",
@@ -135,7 +136,6 @@
     "_posts/2014-12-17-广义的作品.md",
     "_posts/2014-12-17-交互是不可避免的.md",
     "_posts/2021-12-28-jekyll个人博客配置记录.md",
-    "_posts/2014-12-17-流量和结点.md",
-    "_posts/2014-12-17-解脱：把命运女神当婊子.md"
+    "_posts/2014-12-17-流量和结点.md"
   ]
 }
