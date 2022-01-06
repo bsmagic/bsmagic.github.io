@@ -38,5 +38,6 @@
   ],
   "readableLineLength": true,
   "fileSortOrder": "byModifiedTime",
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "defaultViewMode": "source"
 }
