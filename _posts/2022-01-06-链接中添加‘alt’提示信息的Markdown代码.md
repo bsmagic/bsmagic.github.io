@@ -27,3 +27,9 @@ origindate:
 把鼠标放在图片上，会有一个tooltip上显示`可免费查阅？`。
 
 ![可免费查阅](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png "可免费查阅？")
+
+---
+<nav class="toc-fixed" markdown="1">
+  * content
+  {:toc}
+</nav>
