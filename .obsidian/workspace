@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2014-10-12-唯有时间永恒.md",
+            "file": "_posts/2017-12-06-消费社会的心理问题.md",
             "mode": "source",
             "source": true
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "金刚经",
+                "query": "圣人",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2014-10-12-唯有时间永恒.md",
+                "file": "_posts/2017-12-06-消费社会的心理问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2014-10-12-唯有时间永恒.md"
+                "file": "_posts/2017-12-06-消费社会的心理问题.md"
               }
             }
           },
@@ -127,6 +127,7 @@
   },
   "active": "848a999ba5416afc",
   "lastOpenFiles": [
+    "_posts/2017-12-06-消费社会的心理问题.md",
     "_posts/2014-10-12-唯有时间永恒.md",
     "_posts/未命名.md",
     "_posts/2021-11-26-硬软回车及其他.md",
@@ -135,7 +136,6 @@
     "_posts/2021-10-16-梦境里的古墓.md",
     "_posts/2021-11-30-网盘价格.md",
     "_posts/2021-11-27-中二病、德山宣鉴的禅机及其他.md",
-    "_posts/2022-01-06-Typora中自定义css调整页面宽度.md",
-    "_posts/2015-02-26-说空也不空.md"
+    "_posts/2022-01-06-Typora中自定义css调整页面宽度.md"
   ]
 }
