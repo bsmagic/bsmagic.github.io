@@ -28,7 +28,7 @@ createdate: 2021-12-30
 
 | Locale | Language code | LCID string | LCID Decimal | LCID Hexadecimal | Codepage |
 | --- | --- | --- | --- | --- | --- |
-| Afrikaans | af | af | 1078 | 436 | 1252 | ## 想法|
+| Afrikaans | af | af | 1078 | 436 | 1252 | 
 | Chinese - China |zh |zh-cn |2052|804 |
 | English - United States|en|en-us|1033|409|1252
 
