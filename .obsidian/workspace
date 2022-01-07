@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-01-07-et al的用法.md",
+            "file": "_posts/2022-01-07-.md",
             "mode": "source",
             "source": true
           }
@@ -28,12 +28,12 @@
         }
       },
       {
-        "id": "ff8981b1b50e95a4",
+        "id": "9981d205021e6a02",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-25-测试mGit.md",
+            "file": "logs/2021/2021-W42~44.md",
             "mode": "source",
             "source": true
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-01-07-et al的用法.md",
+                "file": "_posts/2022-01-07-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-01-07-et al的用法.md"
+                "file": "_posts/2022-01-07-.md"
               }
             }
           },
@@ -139,15 +139,15 @@
   },
   "active": "be096c479a6194c4",
   "lastOpenFiles": [
-    "_posts/2022-01-07-et al的用法.md",
+    "_posts/2022-01-07-.md",
     "logs/2021/2021-W42~44.md",
-    "_posts/2021-12-25-测试mGit.md",
     "logs/2021/2021-digest-X.md",
+    "_posts/2022-01-07-et al的用法.md",
+    "_posts/2021-12-25-测试mGit.md",
     "_posts/2022-01-07-新冠肺炎资料.md",
     "logs/logs.md",
     "u/swang.md",
     "_posts/2022-01-07-专业的事交给专业的人.md",
-    "_posts/essays/2022-01-07-测试子文件夹里的md文件能否被解析.md",
-    "assets/未命名.md"
+    "_posts/essays/2022-01-07-测试子文件夹里的md文件能否被解析.md"
   ]
 }
