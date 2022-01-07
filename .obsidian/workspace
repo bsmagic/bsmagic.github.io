@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-01-07-专业的事交给专业的人.md",
+            "file": "_posts/2022-01-07-.md",
             "mode": "source",
             "source": true
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-01-07-专业的事交给专业的人.md",
+                "file": "_posts/2022-01-07-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-01-07-专业的事交给专业的人.md"
+                "file": "_posts/2022-01-07-.md"
               }
             }
           },
@@ -127,6 +127,7 @@
   },
   "active": "be096c479a6194c4",
   "lastOpenFiles": [
+    "_posts/2022-01-07-.md",
     "_posts/2022-01-07-专业的事交给专业的人.md",
     "assets/template.md",
     "_posts/2021-12-25-测试mGit.md",
@@ -135,7 +136,6 @@
     "_posts/essays/2018-01-25-无有分别的人生.md",
     "index.md",
     "_posts/2018-01-11-轮回和计算机.md",
-    "_posts/2021-12-23-笔记软件的使用经验.md",
-    "_posts/2017-12-06-消费社会的心理问题.md"
+    "_posts/2021-12-23-笔记软件的使用经验.md"
   ]
 }
