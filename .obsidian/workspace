@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-01-07-测试子文件夹里的md文件能否被解析.md",
+            "file": "_posts/essays/2022-01-07-测试子文件夹里的md文件能否被解析.md",
             "mode": "source",
             "source": true
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-01-07-测试子文件夹里的md文件能否被解析.md",
+                "file": "_posts/essays/2022-01-07-测试子文件夹里的md文件能否被解析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-01-07-测试子文件夹里的md文件能否被解析.md"
+                "file": "_posts/essays/2022-01-07-测试子文件夹里的md文件能否被解析.md"
               }
             }
           },
@@ -127,7 +127,7 @@
   },
   "active": "be096c479a6194c4",
   "lastOpenFiles": [
-    "_posts/2022-01-07-测试子文件夹里的md文件能否被解析.md",
+    "_posts/essays/2022-01-07-测试子文件夹里的md文件能否被解析.md",
     "_posts/2022-01-07-专业的事交给专业的人.md",
     "assets/template.md",
     "_posts/2021-12-25-测试mGit.md",
