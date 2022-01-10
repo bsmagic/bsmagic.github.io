@@ -14,11 +14,3 @@ createdate: {{date:YYYY-MM-DD}}
 origindate: 
 ---
 
-
-
-
-
-* content
- {:toc}
-
-
