@@ -2,6 +2,7 @@
   "baseFontSize": 15,
   "translucency": false,
   "enabledCssSnippets": [
-    "titlebar"
+    "titlebar",
+    "orderedList"
   ]
 }
