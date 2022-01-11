@@ -9,7 +9,7 @@
   "showFrontmatter": true,
   "showUnsupportedFiles": true,
   "legacyEditor": false,
-  "livePreview": false,
+  "livePreview": true,
   "trashOption": "local",
   "promptDelete": false,
   "newFileLocation": "current",

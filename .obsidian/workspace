@@ -11,7 +11,7 @@
           "state": {
             "file": "logs/ZK/ZK-202201071401.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       },
@@ -23,7 +23,7 @@
           "state": {
             "file": "_posts/2022-01-10-用css美化滚动条.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       },
@@ -35,7 +35,7 @@
           "state": {
             "file": "_posts/2022-01-10-实现共现网络图的代码.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       },
@@ -47,7 +47,7 @@
           "state": {
             "file": "_posts/2022-01-07-表观遗传小分子化合物、抗衰老和干细胞.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       },
