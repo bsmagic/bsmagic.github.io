@@ -115,7 +115,7 @@
     }
 
 // hide scrollbar
-    .element::-webkit-scrollbar { width: 0 !important }
+    #toc::-webkit-scrollbar { width: 0 !important }
 
 //     
 // #toc::-webkit-scrollbar
