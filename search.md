@@ -31,7 +31,9 @@ SimpleJekyllSearch({
 <div class="gcse-search"></div>
 </div>
 
-## Powerd by lunr.js （不支持中文，支持的版本索引太大？）
+## Powerd by lunr.js （不支持中文，支持中文的版本索引太大）
+
+```html
 <form action="/search" method="get">
   <input type="text" id="search-box" name="query">
   <input type="submit" value="search">
@@ -55,6 +57,8 @@ SimpleJekyllSearch({
 </script>
 <script src="/assets/lunr.min.js"></script>
 <script src="/assets/search.js"></script>
+```
+
 
 ## Powered by GhostBot (要后台安装，github上不支持)
 
