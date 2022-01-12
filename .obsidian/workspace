@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "logs/ZK/ZK-202201071401.md",
+            "file": "_posts/2022-01-12-Jekyll实现标签和分类页面的代码.md",
             "mode": "source",
             "source": false
           }
@@ -21,19 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-01-10-用css美化滚动条.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "6fd5930c8a0c5c45",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_posts/2021-12-31-笔记整理记录.md",
+            "file": "_posts/2022-01-12-Jekyll实现标签和分类页面的代码.md",
             "mode": "source",
             "source": false
           }
@@ -45,18 +33,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-01-07-表观遗传小分子化合物、抗衰老和干细胞.md",
+            "file": "tags.md",
             "mode": "source",
             "source": false
           }
-        }
-      },
-      {
-        "id": "9981d205021e6a02",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
         }
       }
     ],
@@ -84,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#武汉中心医院蔡莉",
+                "query": "tag:#jekyll的配置",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -121,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-12-31-笔记整理记录.md",
+                "file": "tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-12-31-笔记整理记录.md"
+                "file": "tags.md"
               }
             }
           },
@@ -148,8 +128,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
+                "sortOrder": "alphabeticalReverse",
+                "useHierarchy": true
               }
             }
           },
@@ -159,30 +139,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2021-12-31-笔记整理记录.md",
+                "file": "tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6fd5930c8a0c5c45",
+  "active": "3c248ae67e1f9ca7",
   "lastOpenFiles": [
-    "_posts/2021-12-31-笔记整理记录.md",
-    "_posts/2021-12-23-笔记软件的使用经验.md",
-    "_posts/2022-01-12-grammar's death.md",
+    "tags.md",
+    "_posts/2022-01-12-Jekyll实现标签和分类页面的代码.md",
+    "categories.md",
+    "logs/ZK/ZK-202201071401.md",
     "archive.md",
-    "index.md",
-    "search.md",
-    "_posts/2022-01-10-实现共现网络图的代码.md",
     "_posts/2022-01-07-表观遗传小分子化合物、抗衰老和干细胞.md",
-    "_posts/2022-01-07-姜黄素的剂量.md",
-    "_posts/2015-02-26-说空也不空.md"
+    "_posts/2021-12-28-jekyll个人博客配置记录.md",
+    "_posts/2022-01-10-用css美化滚动条.md",
+    "_posts/2022-01-10-jekyll实现侧边栏目录以及滚动.md",
+    "_posts/2021-12-31-笔记整理记录.md"
   ]
 }

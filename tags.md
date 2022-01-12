@@ -3,42 +3,9 @@ layout: page
 title: Tags
 permanent: 
 description: 标签页面的实例
-tags: tags page
+tags: tagsPage
 ---
 
-
-## 实现方法1
-
-<div class="tags-expo">
-  <div class="tags-expo-list">
-    {% for tag in site.tags %}
-    <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
-    {% endfor %}
-  </div>
-  <hr/>
-  <div class="tags-expo-section">
-    {% for tag in site.tags %}
-    <h3 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h3>
-    <ul class="tags-expo-posts">
-      {% for post in tag[1] %}
-        <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
-      <li>
-        {{ post.title }}
-      <small class="post-date">{{ post.date | date_to_string }}</small>
-      </li>
-      </a>
-      {% endfor %}
-    </ul>
-    {% endfor %}
-  </div>
-</div>
-
-参考：為 GitHub 上的 Jekyll 添加 Tags · Rory
-https://nk910216.github.io/2017/08/11/UsingTagsForJekyll/
-
-
-
-## 实现方法2
 
 <div id="full-tags-list">
 {%- capture site_tags -%}
@@ -72,5 +39,4 @@ https://nk910216.github.io/2017/08/11/UsingTagsForJekyll/
 
 <br>
 
-参考：zoharandroid.github.io/tags.html at master · ZoharAndroid/zoharandroid.github.io
-https://github.com/ZoharAndroid/zoharandroid.github.io/blob/master/tags.html
+

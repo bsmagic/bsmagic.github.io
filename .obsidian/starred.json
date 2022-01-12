@@ -9,6 +9,16 @@
       "type": "file",
       "title": "template",
       "path": "assets/template.md"
+    },
+    {
+      "type": "file",
+      "title": "2021-12-28-jekyll个人博客配置记录",
+      "path": "_posts/2021-12-28-jekyll个人博客配置记录.md"
+    },
+    {
+      "type": "search",
+      "title": "tag:#todos",
+      "query": "tag:#todos"
     }
   ]
 }
