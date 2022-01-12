@@ -16,7 +16,7 @@ tags: todos
 SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
-    json: '/search.json',
+    json: '/assets/search.json',
     searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
     noResultsText: '没有搜索到文章',
     limit: 20,
@@ -49,7 +49,7 @@ SimpleJekyllSearch({
         "title": "{{ post.title | xml_escape }}",
         "author": "{{ post.author | xml_escape }}",
         "category": "{{ post.category | xml_escape }}",
-        "content": {{ post.content | strip_html | strip_newlines | jsonify }},
+        "content": "{{ post.content | strip_html | strip_newlines | jsonify }}",
         "url": "{{ post.url | xml_escape }}"
       }
       {% unless forloop.last %},{% endunless %}
@@ -57,7 +57,7 @@ SimpleJekyllSearch({
   };
 </script>
 <script src="/assets/lunr.min.js"></script>
-<script src="/assets/search.js"></script>
+<script src="/assets/search-by-lunr.js"></script>
 {% endraw %}
 ```
 
