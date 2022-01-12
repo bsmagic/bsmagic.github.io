@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "分类页面例子",
+                "query": "古墓梦境",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -156,13 +156,13 @@
   "lastOpenFiles": [
     "search.md",
     "categories.md",
+    "_posts/2021-10-16-梦境里的古墓.md",
     "_posts/2022-01-12-grammar's death.md",
     "tags.md",
     "_posts/2022-01-12-Jekyll实现标签和分类页面的代码.md",
     "logs/ZK/ZK-202201071401.md",
     "archive.md",
     "_posts/2022-01-07-表观遗传小分子化合物、抗衰老和干细胞.md",
-    "_posts/2021-12-28-jekyll个人博客配置记录.md",
-    "_posts/2022-01-10-用css美化滚动条.md"
+    "_posts/2021-12-28-jekyll个人博客配置记录.md"
   ]
 }

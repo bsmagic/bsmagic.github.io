@@ -3,7 +3,7 @@ layout: page
 title: Search
 ---
 
-## Powered by Simple-jekyll-search
+## Powered by Simple-jekyll-search （生成全文索引大？）
 <!-- HTML elements for search -->
 <input type="text" id="search-input" placeholder="搜索博客 - 输入标题/相关内容/日期/Tags.." style="width:380px;"/>
 <ul id="results-container"></ul>
@@ -22,14 +22,14 @@ SimpleJekyllSearch({
   })
 </script>
 
-## Powed by Google
+## Powed by Google (有延时和遗漏)
 
 <div id='googlesearch'>
 <script async src="https://cse.google.com/cse.js?cx=46146bed48dfe8403"></script>
 <div class="gcse-search"></div>
 </div>
 
-## Powerd by lunr.js
+## Powerd by lunr.js （不支持中文，支持的版本索引大）
 <form action="/search" method="get">
   <input type="text" id="search-box" name="query">
   <input type="submit" value="search">
@@ -54,3 +54,22 @@ SimpleJekyllSearch({
 <script src="/assets/lunr.min.js"></script>
 <script src="/assets/search.js"></script>
 
+## Powered by GhostBot
+<script src="/assets/ghostbot.js"></script>	
+<input type="text" class="search-form-input" placeholder="Search"/>
+<div class="search-bar-result"></div>
+
+<script>
+
+var g = new GhostBot({
+	inputbox: document.querySelector('.search-form-input'),
+	target: document.querySelector('.search-bar-result'),
+	info_template: "<h4>Find{{amount}}Articles.</h4>",
+    result_template: "<a href='{{link}}' class='searchResult'>{{title}}</a>",
+});
+</script>
+
+
+
+LunaYJ/GhostBot: A Ghost Blog Search Engine based on Ghost API, no need Lunr.js & jQuery
+https://github.com/LunaYJ/GhostBot
