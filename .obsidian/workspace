@@ -33,7 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-31-笔记整理记录.md",
+            "file": "search.md",
             "mode": "source",
             "source": false
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-12-31-笔记整理记录.md",
+                "file": "search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-12-31-笔记整理记录.md"
+                "file": "search.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2021-12-31-笔记整理记录.md",
+                "file": "search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,12 +154,12 @@
   },
   "active": "3c248ae67e1f9ca7",
   "lastOpenFiles": [
+    "search.md",
     "_posts/2021-12-31-笔记整理记录.md",
     "_posts/2022-01-12-Jekyll实现标签和分类页面的代码.md",
     "_posts/2022-01-12-grammar's death.md",
     "_posts/2022-01-10-实现共现网络图的代码.md",
     "categories.md",
-    "search.md",
     "_posts/2021-10-16-梦境里的古墓.md",
     "tags.md",
     "logs/ZK/ZK-202201071401.md",
