@@ -20,7 +20,7 @@ SimpleJekyllSearch({
     resultsContainer: document.getElementById('results-container'),
     json: '/assets/search.json',
     searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
-    noResultsText: 'No results‘,
+    noResultsText: 'No results', 
     limit: 20,
     fuzzy: true
   })
