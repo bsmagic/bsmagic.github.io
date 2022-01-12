@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#jekyll的配置",
+                "query": "分类页面例子",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,

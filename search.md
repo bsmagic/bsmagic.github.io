@@ -54,6 +54,3 @@ SimpleJekyllSearch({
 <script src="/assets/lunr.min.js"></script>
 <script src="/assets/search.js"></script>
 
-Source: 
-- CloudCannon/bakery-store-jekyll-template: Template used on CloudCannon Academy screencasts
-https://github.com/CloudCannon/bakery-store-jekyll-template
