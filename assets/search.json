@@ -14,10 +14,7 @@ layout: null
       "tags"     : "{{ post.tags | join: ', ' }}",
       "date"     : "{{ post.date }}",
       "description" : "{{post.description | strip_html | strip_newlines | escape }}", 
-      // "excerpt": "{ { post.excerpt | strip_html | strip_newlines | escape } }",
       "content": {{ page.content | jsonify }}
-      //"content": "{{post.content | strip_html | strip_newlines | escape }}"
-
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
