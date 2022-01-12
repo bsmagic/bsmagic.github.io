@@ -31,7 +31,6 @@ SimpleJekyllSearch({
 
 ## Powerd by lunr.js
 <form action="/search" method="get">
-  <label for="search-box">Search</label>
   <input type="text" id="search-box" name="query">
   <input type="submit" value="search">
 </form>
@@ -54,3 +53,7 @@ SimpleJekyllSearch({
 </script>
 <script src="/assets/lunr.min.js"></script>
 <script src="/assets/search.js"></script>
+
+Source: 
+- CloudCannon/bakery-store-jekyll-template: Template used on CloudCannon Academy screencasts
+https://github.com/CloudCannon/bakery-store-jekyll-template
