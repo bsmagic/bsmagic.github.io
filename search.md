@@ -34,6 +34,7 @@ SimpleJekyllSearch({
 ## Powerd by lunr.js （不支持中文，支持中文的版本索引太大）
 
 ```html
+{% raw %}
 <form action="/search" method="get">
   <input type="text" id="search-box" name="query">
   <input type="submit" value="search">
@@ -57,6 +58,7 @@ SimpleJekyllSearch({
 </script>
 <script src="/assets/lunr.min.js"></script>
 <script src="/assets/search.js"></script>
+{% endraw %}
 ```
 
 
