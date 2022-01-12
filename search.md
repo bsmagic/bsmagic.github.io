@@ -5,7 +5,9 @@ tags: todos
 ---
 
 
-## Powered by Simple-jekyll-search （生成全文索引大？）
+## Powered by Simple-jekyll-search 
+注：生成全文索引会很大？
+
 <!-- HTML elements for search -->
 <input type="text" id="search-input" placeholder="搜索博客 - 输入标题/相关内容/日期/Tags.." style="width:380px;"/>
 <ul id="results-container"></ul>
