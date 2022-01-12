@@ -33,7 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tags.md",
+            "file": "_posts/2022-01-12-grammar's death.md",
             "mode": "source",
             "source": false
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tags.md",
+                "file": "_posts/2022-01-12-grammar's death.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tags.md"
+                "file": "_posts/2022-01-12-grammar's death.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tags.md",
+                "file": "_posts/2022-01-12-grammar's death.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,6 +154,7 @@
   },
   "active": "3c248ae67e1f9ca7",
   "lastOpenFiles": [
+    "_posts/2022-01-12-grammar's death.md",
     "tags.md",
     "_posts/2022-01-12-Jekyll实现标签和分类页面的代码.md",
     "categories.md",
@@ -162,7 +163,6 @@
     "_posts/2022-01-07-表观遗传小分子化合物、抗衰老和干细胞.md",
     "_posts/2021-12-28-jekyll个人博客配置记录.md",
     "_posts/2022-01-10-用css美化滚动条.md",
-    "_posts/2022-01-10-jekyll实现侧边栏目录以及滚动.md",
-    "_posts/2021-12-31-笔记整理记录.md"
+    "_posts/2022-01-10-jekyll实现侧边栏目录以及滚动.md"
   ]
 }
