@@ -25,7 +25,7 @@ SimpleJekyllSearch({
 </script>
 
 ## Powed by Google (有延时和遗漏)
-
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <div id='googlesearch'>
 <script async src="https://cse.google.com/cse.js?cx=46146bed48dfe8403"></script>
 <div class="gcse-search"></div>
@@ -57,6 +57,8 @@ SimpleJekyllSearch({
 <script src="/assets/search.js"></script>
 
 ## Powered by GhostBot (要后台安装，github上不支持)
+
+```html
 <script src="/assets/ghostbot.js"></script>	
 <input type="text" class="search-form-input" placeholder="Search"/>
 <div class="search-bar-result"></div>
@@ -69,7 +71,7 @@ var g = new GhostBot({
     result_template: "<a href='{{link}}' class='searchResult'>{{title}}</a>",
 });
 </script>
-
+```
 
 
 LunaYJ/GhostBot: A Ghost Blog Search Engine based on Ghost API, no need Lunr.js & jQuery
