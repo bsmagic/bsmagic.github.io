@@ -2,7 +2,7 @@
 aliases:
 layout: page
 title:
-description:
+description: 死亡的思考和哲学
 comments:
 menu:
 tags: 哲学

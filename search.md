@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Search
+tags: todos  
 ---
+
 
 ## Powered by Simple-jekyll-search （生成全文索引大？）
 <!-- HTML elements for search -->
@@ -29,7 +31,7 @@ SimpleJekyllSearch({
 <div class="gcse-search"></div>
 </div>
 
-## Powerd by lunr.js （不支持中文，支持的版本索引大）
+## Powerd by lunr.js （不支持中文，支持的版本索引太大？）
 <form action="/search" method="get">
   <input type="text" id="search-box" name="query">
   <input type="submit" value="search">
@@ -54,13 +56,12 @@ SimpleJekyllSearch({
 <script src="/assets/lunr.min.js"></script>
 <script src="/assets/search.js"></script>
 
-## Powered by GhostBot
+## Powered by GhostBot (要后台安装，github上不支持)
 <script src="/assets/ghostbot.js"></script>	
 <input type="text" class="search-form-input" placeholder="Search"/>
 <div class="search-bar-result"></div>
 
 <script>
-
 var g = new GhostBot({
 	inputbox: document.querySelector('.search-form-input'),
 	target: document.querySelector('.search-bar-result'),
