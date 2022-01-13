@@ -13,6 +13,9 @@ timestamp: 202201131451
 createdate: 2022-01-13
 origindate: 
 ---
+
+Markdown的语法是上下文相关的，这一点有利有弊。
+
 ## Powered by Simple-jekyll-search 
 注：生成全文索引会很大？
 
