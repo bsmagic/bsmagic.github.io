@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-28-jekyll个人博客配置记录.md",
+            "file": "index.md",
             "mode": "source",
             "source": true
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-12-28-jekyll个人博客配置记录.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-12-28-jekyll个人博客配置记录.md"
+                "file": "index.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2021-12-28-jekyll个人博客配置记录.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,8 +154,8 @@
   },
   "active": "156b334e64fb68f8",
   "lastOpenFiles": [
-    "_posts/2021-12-28-jekyll个人博客配置记录.md",
     "index.md",
+    "_posts/2021-12-28-jekyll个人博客配置记录.md",
     "categories.md",
     "_posts/2022-01-12-Jekyll实现标签和分类页面的代码.md",
     "tags.md",
