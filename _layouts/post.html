@@ -10,8 +10,22 @@ layout: default
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ page.date | date: date_format }}
       </time>
+      |
+      {%- if page.author -%}
+       {% for author in page.author %}
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+          {%- if forloop.last == false %}, {% endif -%}
+       {% endfor %}
 
-      in
+      {% else %}
+          <a href="https://github.com/{{ site.github.owner_name | cgi_escape | escape }}"><span class="author">{{ site.github.owner_name | escape }}</span></a>
+    {%- endif -%}
+      <li></li>
+
+
+
+      |
       {% if page.categories %}
       <a href="/categories#{{ page.categories}}" target="_blank">
           <span size="3" class="category-ning">{{ page.categories }}</span>
@@ -33,13 +47,7 @@ layout: default
           {{ mdate | date: date_format }}
         </time>
       {%- endif -%}
-      {%- if page.author -%}
-        • {% for author in page.author %}
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-            {%- if forloop.last == false %}, {% endif -%}
-        {% endfor %}
-      {%- endif -%}
+
 
 
 
