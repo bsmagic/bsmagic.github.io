@@ -14,7 +14,7 @@ layout: default
       in
       {% if page.categories %}
       <a href="/categories#{{ page.categories}}" target="_blank">
-          📚 <span size="3" class="category-ning">{{ page.categories }}</span>
+          <span size="3" class="category-ning">{{ page.categories }}</span>
       </a>
       {% endif %}
 
@@ -31,16 +31,15 @@ layout: default
             <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
-      {%- endif -%}</p>
+      {%- endif -%}
 
       <div class="post-tags">
         {% if page.tags %}  
-         tags: 
-
         {% for tag in page.tags %}
-        <a href="/tags#{{ tag }}" target="_blank">{{ tag }}</a>
+        <a href="/tags#{{ tag }}" target="_blank">#{{ tag }}</a>
         {% endfor %}
         {% endif %}
+      </p>
     </div>
 
 
