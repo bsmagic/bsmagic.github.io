@@ -35,8 +35,8 @@ layout: default
 
       tags: 
       <div class="post-tags">
-        {% if page.tag %}
-        {% for tag in page.tag %}
+        {% if page.tags %}
+        {% for tag in page.tags %}
         <a href="/tags#{{ tag }}" target="_blank">{{ tag }}</a>
         {% endfor %}
         {% endif %}
