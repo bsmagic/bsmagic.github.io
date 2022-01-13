@@ -18,6 +18,14 @@ layout: default
       </a>
       {% endif %}
 
+      {% if page.tags %}  
+        <div class="post-tags">
+        {% for tag in page.tags %}
+        <a href="/tags#{{ tag }}" target="_blank">#{{ tag }}</a>
+        {% endfor %}
+        </div>
+      {% endif %}
+      
       {%- if page.modified_date -%}
         ~ 
         {%- assign mdate = page.modified_date | date_to_xmlschema -%}
@@ -33,14 +41,9 @@ layout: default
         {% endfor %}
       {%- endif -%}
 
-      <div class="post-tags">
-        {% if page.tags %}  
-        {% for tag in page.tags %}
-        <a href="/tags#{{ tag }}" target="_blank">#{{ tag }}</a>
-        {% endfor %}
-        {% endif %}
+
+
       </p>
-    </div>
 
 
   </header>
