@@ -1,6 +1,6 @@
 ---
 aliases:
-layout: page
+layout: post
 title:
 description:
 keywords:

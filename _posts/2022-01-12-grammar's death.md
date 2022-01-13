@@ -1,6 +1,6 @@
 ---
 aliases:
-layout: page
+layout: post
 title:
 description: 死亡的思考和哲学
 comments:
