@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-01-12-grammar's death.md",
+            "file": "_posts/2021-12-28-jekyll个人博客配置记录.md",
             "mode": "source",
             "source": true
           }
@@ -93,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-01-12-grammar's death.md",
+                "file": "_posts/2021-12-28-jekyll个人博客配置记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-01-12-grammar's death.md"
+                "file": "_posts/2021-12-28-jekyll个人博客配置记录.md"
               }
             }
           },
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-01-12-grammar's death.md",
+                "file": "_posts/2021-12-28-jekyll个人博客配置记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +167,9 @@
   },
   "active": "cf1cfb155f7a6e51",
   "lastOpenFiles": [
+    "_posts/2021-12-28-jekyll个人博客配置记录.md",
     "_posts/2022-01-12-grammar's death.md",
     "_posts/2022-01-10-实现共现网络图的代码.md",
-    "_posts/2021-12-28-jekyll个人博客配置记录.md",
     "_posts/2022-01-13-jekyll博客search代码.md",
     "search.md",
     "assets/template.md",
