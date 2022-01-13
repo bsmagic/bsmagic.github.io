@@ -16,6 +16,18 @@
         }
       },
       {
+        "id": "cf1cfb155f7a6e51",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "search.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "156b334e64fb68f8",
         "type": "leaf",
         "state": {
@@ -64,11 +76,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todos/maybe",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "byModifiedTime"
               }
             }
@@ -81,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-12-28-jekyll个人博客配置记录.md",
+                "file": "search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-12-28-jekyll个人博客配置记录.md"
+                "file": "search.md"
               }
             }
           },
@@ -139,30 +152,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2021-12-28-jekyll个人博客配置记录.md",
+                "file": "search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "be096c479a6194c4",
+  "active": "cf1cfb155f7a6e51",
   "lastOpenFiles": [
+    "search.md",
     "_posts/2021-12-28-jekyll个人博客配置记录.md",
+    "logs/ZK/Z-20211124-1031.md",
     "_posts/2022-01-12-Jekyll实现标签和分类页面的代码.md",
     "archive.md",
     "index.md",
     "categories.md",
     "tags.md",
     "_posts/2022-01-10-实现共现网络图的代码.md",
-    "_posts/2022-01-10-用css美化滚动条.md",
-    "_posts/2021-12-29-测试TOC.md",
-    "_posts/2014-10-12-唯有时间永恒.md"
+    "_posts/2022-01-10-用css美化滚动条.md"
   ]
 }
