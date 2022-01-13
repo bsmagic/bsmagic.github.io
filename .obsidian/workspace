@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "search.md",
+            "file": "_posts/2022-01-13-jekyll博客search代码.md",
             "mode": "source",
             "source": true
           }
@@ -93,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "search.md",
+                "file": "_posts/2022-01-13-jekyll博客search代码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "search.md"
+                "file": "_posts/2022-01-13-jekyll博客search代码.md"
               }
             }
           },
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "search.md",
+                "file": "_posts/2022-01-13-jekyll博客search代码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +166,9 @@
   },
   "active": "cf1cfb155f7a6e51",
   "lastOpenFiles": [
+    "_posts/2022-01-13-jekyll博客search代码.md",
     "search.md",
     "assets/template.md",
-    "_posts/2022-01-13-jekyll博客search代码.md",
     "_posts/2021-12-28-jekyll个人博客配置记录.md",
     "tags.md",
     "logs/ZK/Z-20211124-1031.md",

@@ -1,7 +1,7 @@
 ---
 aliases:
 layout: post
-title:
+title: jekyll博客search代码
 description:
 comments:
 menu:
