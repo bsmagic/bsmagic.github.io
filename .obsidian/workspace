@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-28-jekyll个人博客配置记录.md",
+            "file": "assets/template.md",
             "mode": "source",
             "source": true
           }
@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -168,14 +168,14 @@
   "active": "cf1cfb155f7a6e51",
   "lastOpenFiles": [
     "search.md",
+    "assets/template.md",
+    "_posts/2022-01-13-jekyll博客search代码.md",
     "_posts/2021-12-28-jekyll个人博客配置记录.md",
+    "tags.md",
     "logs/ZK/Z-20211124-1031.md",
     "_posts/2022-01-12-Jekyll实现标签和分类页面的代码.md",
     "archive.md",
     "index.md",
-    "categories.md",
-    "tags.md",
-    "_posts/2022-01-10-实现共现网络图的代码.md",
-    "_posts/2022-01-10-用css美化滚动条.md"
+    "categories.md"
   ]
 }
