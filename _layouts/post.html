@@ -13,7 +13,9 @@ layout: default
 
       in
       {% if page.categories %}
-      <a href="${post.categories[0].fullPath!}">${post.categories[0].name}</a>
+      <a href="/categories#{{ page.category}}" target="_blank">
+          📚 <span size="3" class="category-ning">{{ page.categories }}</span>
+      </a>
       {% endif %}
 
       {%- if page.modified_date -%}
@@ -31,6 +33,7 @@ layout: default
         {% endfor %}
       {%- endif -%}</p>
 
+      tags: 
       <div class="post-tags">
         {% if page.tag %}
         {% for tag in page.tag %}

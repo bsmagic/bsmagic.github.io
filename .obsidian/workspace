@@ -33,7 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-01-12-Jekyll实现标签和分类页面的代码.md",
+            "file": "tags.md",
             "mode": "source",
             "source": true
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-01-12-Jekyll实现标签和分类页面的代码.md",
+                "file": "tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-01-12-Jekyll实现标签和分类页面的代码.md"
+                "file": "tags.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-01-12-Jekyll实现标签和分类页面的代码.md",
+                "file": "tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,6 +154,7 @@
   },
   "active": "3c248ae67e1f9ca7",
   "lastOpenFiles": [
+    "tags.md",
     "_posts/2022-01-12-Jekyll实现标签和分类页面的代码.md",
     "_posts/2022-01-10-实现共现网络图的代码.md",
     "_posts/2022-01-10-用css美化滚动条.md",
@@ -162,7 +163,6 @@
     "_posts/2021-12-29-测试TOC.md",
     "_posts/2014-10-12-唯有时间永恒.md",
     "_posts/2014-11-17-注意力的转移调节.md",
-    "tags.md",
     "_posts/2022-01-12-grammar's death.md"
   ]
 }
