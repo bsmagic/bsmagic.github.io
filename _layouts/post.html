@@ -19,12 +19,12 @@ layout: default
        {% endfor %}
 
       {% else %}
-          <a href="https://github.com/{{ site.github.owner_name | cgi_escape | escape }}"><span class="author">{{ site.github.owner_name | escape }}</span></a>
+        <span class="author"><a href="https://github.com/{{ site.github.owner_name | cgi_escape | escape }}">{{ site.github.owner_name | escape }}</a></span>
     {%- endif -%}
-      |
+      
       {% if page.categories %}
       <a href="/categories#{{ page.categories}}" target="_blank">
-          <span size="3" class="category-ning">{{ page.categories }}</span>
+        |  <span size="3" class="category-ning">{{ page.categories }}</span>
       </a>
       {% endif %}
 
