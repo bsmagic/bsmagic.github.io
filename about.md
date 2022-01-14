@@ -1,6 +1,8 @@
-# About
+---
+layout: page
+title: About
+tags: 
+---
 
-This *About* page is in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
-This blog is powerd by <https://github.com/fastai/fast_template> and Obsidian (with git plugin).
+This blog is powerd by [FASTAI](https://github.com/fastai/fast_template), Jekyll, Obsidian (with git plugin).
 

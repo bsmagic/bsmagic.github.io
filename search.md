@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Search
-tags: todos
+tags: 
 ---
 
 <!-- HTML elements for search -->
