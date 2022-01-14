@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "about.md",
+            "file": "_posts/2022-01-14-用AHK获取输入法中英文状态.md",
             "mode": "source",
             "source": true
           }
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todos/maybe",
+                "query": "区域",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "_posts/2022-01-14-用AHK获取输入法中英文状态.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about.md"
+                "file": "_posts/2022-01-14-用AHK获取输入法中英文状态.md"
               }
             }
           },
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.md",
+                "file": "_posts/2022-01-14-用AHK获取输入法中英文状态.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,6 +167,8 @@
   },
   "active": "cf1cfb155f7a6e51",
   "lastOpenFiles": [
+    "_posts/2022-01-14-用AHK获取输入法中英文状态.md",
+    "_posts/2021-12-30-Windows 语言代码标识符(LCID).md",
     "about.md",
     "search.md",
     "_posts/2022-01-13-jekyll博客search代码.md",
@@ -173,8 +176,6 @@
     "assets/template.md",
     "u/swang.md",
     "_posts/2021-12-28-jekyll个人博客配置记录.md",
-    "_posts/2022-01-12-grammar's death.md",
-    "_posts/2022-01-10-实现共现网络图的代码.md",
-    "tags.md"
+    "_posts/2022-01-12-grammar's death.md"
   ]
 }

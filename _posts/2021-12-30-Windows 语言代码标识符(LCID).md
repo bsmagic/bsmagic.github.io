@@ -6,7 +6,7 @@ description:
 keywords:
 comments:
 menu:
-tags:  LCID
+tags:  LCID 区域语言代码
 categories:
 permanent: 
 excerpt:
