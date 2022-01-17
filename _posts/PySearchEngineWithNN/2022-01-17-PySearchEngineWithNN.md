@@ -35,8 +35,7 @@ crawler.crawl(pages)
 self.visited = BloomFilter(max_elements=1000000, error_rate=0.001)
 ```
 
-
-```
+```cmd
 pip install bloom-filter2
 pip install beautifulsoup4
 pip install jieba
