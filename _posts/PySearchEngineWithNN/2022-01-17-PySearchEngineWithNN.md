@@ -96,13 +96,14 @@ Python 2中
 > ](http://neeao.com/index.php?id=1)
 > 
 > [http://neeao.com/index.php?id=1](http://neeao.com/index.php?id=1) 这下就好了。
+参考：
+[urllib.quote_my2010Sam的专栏-CSDN博客](https://blog.csdn.net/my2010Sam/article/details/9262141)
+
 
 Python 3中要修改为：
  `url=urllib.parse.quote(url,safe=":?=/")`
 
-
-
-还是有编码的转换问题： #todos
+还是有编码的转换问题： 
 
 http://v.t.sina.com.cn/share/share.php?url='+encodeURIComponent(location.href)+'&appkey=3172366919&title='+encodeURIComponent('金砖国家通信部长、工业部长会议志愿者出征仪式暨集中培训会在我校顺利举办')+'
 
@@ -117,5 +118,3 @@ https://service.weibo.com/share/share.php?url=%27%2BencodeURIComponent%28locatio
 ```
 
 
-参考：
-[urllib.quote_my2010Sam的专栏-CSDN博客](https://blog.csdn.net/my2010Sam/article/details/9262141)
