@@ -4,48 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "be096c479a6194c4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "assets/template.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "cf1cfb155f7a6e51",
+        "id": "0651214e42e1f71e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "_posts/2022-01-14-用AHK获取输入法中英文状态.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "156b334e64fb68f8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "archive.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "3c248ae67e1f9ca7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "tags.md",
             "mode": "source",
             "source": true
           }
@@ -76,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "区域",
+                "query": "tag:#数据管理有问题，出错。居然还公开投注记录在博客上。",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -93,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,7 +104,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "frequencyReverse",
                 "useHierarchy": true
               }
             }
@@ -159,23 +122,23 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cf1cfb155f7a6e51",
+  "active": "0651214e42e1f71e",
   "lastOpenFiles": [
     "_posts/2022-01-14-用AHK获取输入法中英文状态.md",
-    "_posts/2021-12-30-Windows 语言代码标识符(LCID).md",
-    "about.md",
-    "search.md",
-    "_posts/2022-01-13-jekyll博客search代码.md",
-    "logs/202111 @ flomo.md",
+    "_posts/PySearchEngineWithNN/2022-01-17-PySearchEngineWithNN.md",
+    "archive.md",
     "assets/template.md",
-    "u/swang.md",
-    "_posts/2021-12-28-jekyll个人博客配置记录.md",
-    "_posts/2022-01-12-grammar's death.md"
+    "Evernote-2021-10-27/500wan 0 _支付宝登录 _海拔93.md",
+    "Evernote-2021-10-27/在python中使用elasticsearch做为搜索引擎。.md",
+    "Evernote-2021-10-27/RNN之seq2seq模型.md",
+    "Evernote-2021-10-27/快讯：直播启东集会，市政府被群众攻陷！！启东市委书记衣服被扒！！新增65P图片、视频 轉到動態網頁.md",
+    "Evernote-2021-10-27/利用Python搭建的简易排序搜索引擎.md",
+    "Evernote-2021-10-27/用python做一个搜索引擎(Pylucene).md"
   ]
 }
