@@ -7,9 +7,17 @@
         "id": "0651214e42e1f71e",
         "type": "leaf",
         "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "1d1179786297bba3",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/PySearchEngineWithNN/2022-01-17-PySearchEngineWithNN.md",
+            "file": "logs/2021/2021-digest-X.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#6mg",
+                "query": "踩下离合器",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/PySearchEngineWithNN/2022-01-17-PySearchEngineWithNN.md",
+                "file": "logs/2021/2021-digest-X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/PySearchEngineWithNN/2022-01-17-PySearchEngineWithNN.md"
+                "file": "logs/2021/2021-digest-X.md"
               }
             }
           },
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/PySearchEngineWithNN/2022-01-17-PySearchEngineWithNN.md",
+                "file": "logs/2021/2021-digest-X.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,17 +144,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0651214e42e1f71e",
+  "active": "1d1179786297bba3",
   "lastOpenFiles": [
-    "_posts/PySearchEngineWithNN/2022-01-17-PySearchEngineWithNN.md",
-    "_posts/2022-01-17-反向引号键盘重新布局.md",
-    "_posts/2022-01-14-用AHK获取输入法中英文状态.md",
-    "_posts/2022-01-17-Python程序语言的命名法.md",
-    "_posts/2022-01-17-.md",
-    "assets/post_template.md",
-    "u/@ZHANGJQ.md",
-    "u/@XULIANG.md",
-    "u/@YAMU.md",
-    "u/@JSW.md"
+    "logs/2021/2021-digest-X.md",
+    "_posts/2022-01-18-obsidian神器dataview的几个例子.md",
+    "logs/2021/11/Newtab.md",
+    "logs/2021/11/2021-11-05-Fri.md",
+    "logs/2021/12/2021-12-03-Fri.md",
+    "logs/2021/11/2021-11-19-Fri.md",
+    "logs/2021/11/Q&A MOC.md",
+    "logs/2021/11/表格变成列表.md",
+    "flomo/202201.md",
+    "logs/202112.md"
   ]
 }
