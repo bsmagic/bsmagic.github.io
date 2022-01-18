@@ -258,7 +258,7 @@ class Searcher:
         scores = self.getscorelist(rows, wordids)
         # 排序展示
         rankedscores = sorted([(score, url) for (url, score) in scores.items()], reverse=1)
-        for i, (score, urlid) in enumerate(rankedscores[0:10]):
+        for i, (score, urlid) in enumerate(rankedscores[0:100]):
             #print('%d %f\t%s' % (i, score, self.geturlname(urlid)))
             result=Result(no=i, score=score, url=self.geturlname(urlid))
             arrResults.append(result)
