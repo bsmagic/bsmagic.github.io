@@ -13,6 +13,11 @@ headers={'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537
 
 ignorewords = set(['the', 'of', 'to', 'and', 'a', 'in', 'is', 'it', '-', '，', '。', "'", '', u'的', u'是'])
 
+class Result():
+    def __init__(self, no, score, url):
+        self.no = no
+        self.score = score
+        self.url = url
 
 class Crawler:
     # 初始化Crawler的类并传入数据库名称
@@ -178,7 +183,7 @@ class Crawler:
 class Searcher:
     # 初始化Searcher的类并传入数据库名称
     def __init__(self, dbname):
-        self.con = sqlite.connect(dbname)
+        self.con = sqlite.connect(dbname, check_same_thread=False) # 简单规避掉线程之间的冲突问题
         self.mynet = Searchnet(dbname)
         self.debug_mode = False
     def __del__(self):
@@ -194,6 +199,7 @@ class Searcher:
         tablelist = ''
         clauselist = ''
         wordids = []
+        rows=[]
         # 拆分查询query单词
         words = self.separatewords(q)
         # 删除停词
@@ -219,9 +225,16 @@ class Searcher:
                 tablelist += 'wordlocation w%d' % tablenumber
                 clauselist += 'w%d.wordid=%d' % (tablenumber, wordid)
                 tablenumber += 1
+        if tablenumber==0:
+            return rows, wordids    
         # 根据各个分组，建立查询
         fullquery = 'select %s from %s where %s' % (fieldlist, tablelist, clauselist)
-        cur = self.con.execute(fullquery)
+        try:
+            cur = self.con.execute(fullquery)
+        except IOError:
+            print(fullquery)
+        else:
+            print(fullquery)
         rows = [row for row in cur]
         return rows, wordids    
 
@@ -234,6 +247,22 @@ class Searcher:
         rankedscores = sorted([(score, url) for (url, score) in scores.items()], reverse=1)
         for i, (score, urlid) in enumerate(rankedscores[0:10]):
             print('%d %f\t%s' % (i, score, self.geturlname(urlid)))
+
+    def getQuery(self, q):
+        arrResults=[]
+        # rows 查询到的相关网页集合 
+        rows, wordids = self.getmatchrows(q)
+        if not rows:
+            return arrResults
+        # 计算url总分
+        scores = self.getscorelist(rows, wordids)
+        # 排序展示
+        rankedscores = sorted([(score, url) for (url, score) in scores.items()], reverse=1)
+        for i, (score, urlid) in enumerate(rankedscores[0:10]):
+            #print('%d %f\t%s' % (i, score, self.geturlname(urlid)))
+            result=Result(no=i, score=score, url=self.geturlname(urlid))
+            arrResults.append(result)
+        return arrResults
 
     def separatewords(self, text):
         seg_list = jieba.cut_for_search(text)
@@ -508,7 +537,7 @@ if __name__ == '__main__':
 
 # -*- coding:utf-8 -*-
 from math import tanh
-from pysqlite2 import dbapi2 as sqlite
+#from pysqlite2 import dbapi2 as sqlite
 
 
 def dtanh(y):

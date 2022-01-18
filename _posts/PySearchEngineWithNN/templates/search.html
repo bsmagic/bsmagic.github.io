@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>Title</title>
+
+</head>
+
+<body>
+
+<form method="post" action="{{url_for('search')}}">
+
+    <input type="text" name="query" id="query" placeholder="请输入搜索内容">
+
+    <input type="submit" value="搜索">
+
+</form>
+
+<div>
+
+    <table border="1px" cellspacing="0px">
+
+        {% for i in quotes %}
+
+        <tr>
+
+            <td>序号</td>
+
+            <td>{{i.no}}</td>
+
+            <td>分值</td>
+
+            <td>{{i.score}}</td>
+
+            <td>网址</td>
+
+            <td>{{i.url}}</td>
+
+
+        </tr>
+
+        {% endfor %}
+
+    </table>
+
+</div>
+
+</body>
+
+</html>
