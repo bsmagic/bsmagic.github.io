@@ -17,7 +17,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/PySearchEngineWithNN/2022-01-18-基于flask实现Web搜索引擎.md",
+            "file": "_posts/2022-01-17-反向引号键盘重新布局.md",
             "mode": "source",
             "source": true
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/PySearchEngineWithNN/2022-01-18-基于flask实现Web搜索引擎.md",
+                "file": "_posts/2022-01-17-反向引号键盘重新布局.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/PySearchEngineWithNN/2022-01-18-基于flask实现Web搜索引擎.md"
+                "file": "_posts/2022-01-17-反向引号键盘重新布局.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/PySearchEngineWithNN/2022-01-18-基于flask实现Web搜索引擎.md",
+                "file": "_posts/2022-01-17-反向引号键盘重新布局.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +146,8 @@
   },
   "active": "1d1179786297bba3",
   "lastOpenFiles": [
+    "_posts/2022-01-17-反向引号键盘重新布局.md",
+    "_posts/2014-10-29-今夜.md",
     "_posts/PySearchEngineWithNN/2022-01-18-基于flask实现Web搜索引擎.md",
     "_posts/PySearchEngineWithNN/2022-01-17-用python打造含有简单神经网络的爬虫和搜索引擎.md",
     "r/templates/论文模版-1.md",
@@ -153,8 +155,6 @@
     "_posts/2022-01-18-obsidian神器dataview的几个例子.md",
     "logs/2021/11/Newtab.md",
     "logs/2021/11/2021-11-05-Fri.md",
-    "logs/2021/12/2021-12-03-Fri.md",
-    "logs/2021/11/2021-11-19-Fri.md",
-    "logs/2021/11/Q&A MOC.md"
+    "logs/2021/12/2021-12-03-Fri.md"
   ]
 }
