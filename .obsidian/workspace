@@ -17,7 +17,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2014-10-12-人生的三个M.md",
+            "file": "_posts/2014-10-10-存在的状况.md",
             "mode": "source",
             "source": true
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2014-10-12-人生的三个M.md",
+                "file": "_posts/2014-10-10-存在的状况.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2014-10-12-人生的三个M.md"
+                "file": "_posts/2014-10-10-存在的状况.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2014-10-12-人生的三个M.md",
+                "file": "_posts/2014-10-10-存在的状况.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,15 +146,15 @@
   },
   "active": "1d1179786297bba3",
   "lastOpenFiles": [
+    "_posts/2014-10-10-存在的状况.md",
+    "_posts/2014-10-12-.md",
+    "_posts/2014-10-12-中国人的N种死法.md",
+    "_posts/2014-10-12-在中国创业的条件.md",
+    "_posts/2014-10-12-法律和道德.md",
+    "_posts/2014-10-12-在荒野哭泣.md",
+    "_posts/2014-10-12-阴阳界之老人.md",
     "_posts/2014-10-12-人生的三个M.md",
     "_posts/2014-10-12-论性的罪感与生之意义.md",
-    "logs/2021/2021-digest-X.md",
-    "_posts/2014-10-12-后现代背后的狰狞面孔.md",
-    "_posts/2014-10-12-表象的表象.md",
-    "_posts/2014-10-12-爱情和艺术.md",
-    "_posts/2022-01-18-obsidian神器dataview的几个例子.md",
-    "_posts/2022-01-17-反向引号键盘重新布局.md",
-    "_posts/2014-10-12-避孕套做的氢气球.md",
-    "code/RMarkdown.md"
+    "logs/2021/2021-digest-X.md"
   ]
 }
