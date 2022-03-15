@@ -37,7 +37,7 @@
     "editor:configure-toolbar"
   ],
   "readableLineLength": true,
-  "fileSortOrder": "byModifiedTime",
+  "fileSortOrder": "alphabetical",
   "strictLineBreaks": false,
   "defaultViewMode": "source"
 }
