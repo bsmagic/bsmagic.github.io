@@ -3,5 +3,6 @@
   "translucency": false,
   "enabledCssSnippets": [
     "titlebar"
-  ]
+  ],
+  "accentColor": ""
 }

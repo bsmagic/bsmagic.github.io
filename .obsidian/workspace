@@ -17,8 +17,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2014-09-30-宗教心理与悖论.md",
-            "mode": "source",
+            "file": "personal/账号汇总.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -48,9 +48,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "智慧芽 账号",
+                "query": "wos",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime"
@@ -65,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 326
+    "width": 365
   },
   "right": {
     "id": "77c43589b8007f98",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2014-09-30-宗教心理与悖论.md",
+                "file": "personal/账号汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2014-09-30-宗教心理与悖论.md"
+                "file": "personal/账号汇总.md"
               }
             }
           },
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2014-09-30-宗教心理与悖论.md",
+                "file": "personal/账号汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,19 +143,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "1d1179786297bba3",
   "lastOpenFiles": [
-    "_posts/2014-09-30-宗教心理与悖论.md",
-    "_posts/2014-10-01-宇宙和意识的起源和本质.md",
-    "_posts/2014-10-01-因为爱情而寂寞.md",
-    "_posts/2014-09-29-.md",
-    "_posts/2014-10-01-呓语之LOVE.md",
-    "_posts/2014-10-01-一见钟情之外.md",
-    "_posts/2014-10-01-一个无政府主义者的意外出生.md",
-    "_posts/2014-10-01-自卑是个什么东西？.md",
-    "_posts/2014-10-03-分裂的意识.md",
-    "_posts/2014-10-13-愧疚.md"
+    "personal/账号汇总.md",
+    "Evernote-2021-10-27/使白发转黑秃头生发的药物可能与清除衰老细胞有关 - 知乎.md",
+    "Evernote-2021-10-27/阿奇霉素生发.md",
+    "medinfox/SARMS.md",
+    "medinfox/GW-501516.md",
+    "medinfox/~整理小分子重编程.md",
+    "logs/ZK/Z-20211025-1010.md",
+    "_posts/2021-11-26-硬软回车及其他.md",
+    "ipis/参考文献 - 杭电知识产权信息服务内容.md",
+    "_posts/2022-06-16-一个公式.md"
   ]
 }

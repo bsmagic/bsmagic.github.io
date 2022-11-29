@@ -39,5 +39,11 @@
   "readableLineLength": true,
   "fileSortOrder": "byCreatedTime",
   "strictLineBreaks": false,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
