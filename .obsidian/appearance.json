@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "titlebar"
   ],
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "system"
 }
