@@ -1,11 +1,11 @@
 .container {
-    width: 1050px;
+    /* width: 1050px;
     margin: 0 auto;
     display: flex;
     flex-direction: row;
     .contents{
         width: 720px;
-    }
+    } */
     .table-of-contents{
         padding: 10px;
         border-left: 2px solid #efefef;
