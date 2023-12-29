@@ -1,0 +1,40 @@
+<!-- common.sass -->
+
+.container {
+    width: 1050px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    .contents{
+        width: 720px;
+    }
+    .table-of-contents{
+        padding: 10px;
+        border-left: 2px solid #efefef;
+        width: 280px;
+        position: -webkit-sticky;
+        position: sticky;
+        top: 80px;
+        margin-bottom: 80px;
+        height: fit-content;
+        margin-left: 30px;
+        h2 {
+            font-family: fantasy;
+            color: #e32e00;
+        }
+        ul{
+            margin-left: 20px;
+            list-style-type: revert;
+            font-size: 14px;
+            line-height: 24px;
+            color: #005b81;
+            a{
+                color: #005b81;
+                &:hover{
+                    color: #e32e00;
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+}

@@ -52,9 +52,32 @@ layout: default
 
   </header>
 
-  <div class="post-content e-content" itemprop="articleBody">
+<!--   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+  </div> --> 
+
+
+  {% if site.toc %}
+  <div class="container">  
+    <div class="contents">
+      
+      <div class="post-content e-content" itemprop="articleBody">
+        {{ content }}
+      </div> 
+
+    </div>   
+    <div class="table-of-contents">
+      <h2>Contents</h2>
+      {% include toc.html html=content %}
+    </div>
   </div>
+{% else %}
+<div class="post-content e-content" itemprop="articleBody">
+  {{ content }}
+</div> 
+{% endif %}
+
+<!-- -------- -->
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
