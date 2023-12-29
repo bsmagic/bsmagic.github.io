@@ -59,6 +59,10 @@ layout: default
 
   {% if site.toc %}
   <div class="container">  
+    <div class="table-of-contents">
+      <h2>-- 目录 --</h2>
+      {% include toc.html html=content %}
+    </div>
     <div class="contents">
       
       <div class="post-content e-content" itemprop="articleBody">
@@ -66,10 +70,7 @@ layout: default
       </div> 
 
     </div>   
-    <div class="table-of-contents">
-      <h2>目录</h2>
-      {% include toc.html html=content %}
-    </div>
+
   </div>
 {% else %}
 <div class="post-content e-content" itemprop="articleBody">
