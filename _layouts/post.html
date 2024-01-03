@@ -56,28 +56,29 @@ layout: default
     {{ content }}
   </div> --> 
 
+  <div class="container">  
 
   {% if site.toc %}
-  <div class="container">  
-    <div class="table-of-contents">
+  <div class="table-of-contents">
       <h2>-- 目录 --</h2>
       {% include toc.html html=content %}
+      <hr>
     </div>
-    <div class="contents">
-      
-      <div class="post-content e-content" itemprop="articleBody">
-        {{ content }}
-      </div> 
-
-    </div>   
-
-  </div>
-{% else %}
+    
+<!-- {% else %}
 <div class="post-content e-content" itemprop="articleBody">
   {{ content }}
-</div> 
+</div>  -->
 {% endif %}
+<div class="contents">
+      
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div> 
 
+</div>   
+
+</div>
 <!-- -------- -->
 
   {%- if site.disqus.shortname -%}
