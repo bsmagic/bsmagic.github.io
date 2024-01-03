@@ -58,14 +58,14 @@ layout: default
 
   <div class="container">  
 
-  {% if site.toc %}
+{% if site.toc %}
   <div class="table-of-contents">
       <h2>-- 目录 --</h2>
       {% include toc.html html=content %}
       <hr>
     </div>
     
-<!-- {% else %}
+<!-- { % else %}
 <div class="post-content e-content" itemprop="articleBody">
   {{ content }}
 </div>  -->
