@@ -10,8 +10,8 @@
         padding: 10px;
         border-left: 2px solid #efefef;
         width: 280px;
-        position: -webkit-sticky;
-        position: sticky;
+        /*position: -webkit-sticky;
+        position: sticky;*/
         top: 80px;
         margin-bottom: 80px;
         height: fit-content;
